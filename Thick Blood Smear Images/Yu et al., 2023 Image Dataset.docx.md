@@ -35,7 +35,7 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
 |Publicly available| [Dataset](https://data.lhncbc.nlm.nih.gov/public/Malaria/MalariaScreener/index.html)| https://doi.org/10.1186/s12936-023-04446-0|
 
 
-**If you are using this resource, please cite:**
 
+**If you are using this resource, please cite:**
 Yu, H., Mohammed, F.O., Abdel Hamid, M. et al. Patient-level performance evaluation of a smartphone-based malaria diagnostic application. Malar J 22, 33 (2023). https://doi.org/10.1186/s12936-023-04446-0
 
