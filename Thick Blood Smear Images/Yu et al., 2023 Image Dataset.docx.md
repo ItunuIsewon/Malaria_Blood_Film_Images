@@ -1,5 +1,5 @@
-# **Yu et al., 2023 Image Dataset** 
-**Article link:** [ref](https://data.lhncbc.nlm.nih.gov/public/Malaria/MalariaScreener/inde×.html)
+# **Yu et al., 2023 Image Dataset**  
+**_Article Link_:** [ref](https://data.lhncbc.nlm.nih.gov/public/Malaria/MalariaScreener/inde×.html)
 
 ## **Description**
 It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
@@ -20,6 +20,13 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
      - Thick: 2944
      - Thin: 875
 
+## **Image Preview**
+### **Thick Blood Smear (_P. falciparum_)**
+![Figure 1](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Sudan_Thick_Pf.png)
+
+
+### **Thin Blood Smear (_P. falciparum_)**
+![Figure 2](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Sudan_Thin_Pf.png)
 
 
 ## **Dataset Availability**
@@ -27,4 +34,8 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
 |:---:|:---:|:---:|
 |Publicly available| [Dataset](https://data.lhncbc.nlm.nih.gov/public/Malaria/MalariaScreener/index.html)| https://doi.org/10.1186/s12936-023-04446-0|
 
- 
+
+**If you are using this resource, please cite:**
+
+Yu, H., Mohammed, F.O., Abdel Hamid, M. et al. Patient-level performance evaluation of a smartphone-based malaria diagnostic application. Malar J 22, 33 (2023). https://doi.org/10.1186/s12936-023-04446-0
+
