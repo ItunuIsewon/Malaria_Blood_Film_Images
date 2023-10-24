@@ -21,4 +21,10 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
      - Thin: 875
 
 
-## **Download Link**
+
+## **Dataset Availability**
+|**Status**|**Dataset Link**|**DOI**|
+|:---:|:---:|:---:|
+|Publicly available| [Dataset](https://data.lhncbc.nlm.nih.gov/public/Malaria/MalariaScreener/index.html)| https://doi.org/10.1186/s12936-023-04446-0|
+
+ 
