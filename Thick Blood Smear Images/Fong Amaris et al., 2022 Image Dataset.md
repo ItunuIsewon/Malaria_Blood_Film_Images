@@ -27,6 +27,9 @@ It is a **thick** blood smear and **Modified Romanowsky-stained** blood smear im
 |:---:|:---:|:---:|
 |Publicly Available| [Dataset](https://www.researchgate.net/publication/359064205_Image_features_for_quality_analysis_of_thick_blood_smears_employed_in_malaria_diagnosis)| https://doi.org/10.1186/s12936-022-04064-2|
 
-
-**If you are using this resource, please cite:**
+---
+>
+> ❗🛑 **If you are using this resource, please cite:**
 Fong Amaris, W.M., Martinez, C., Cortés-Cortés, L.J. et al. Image features for quality analysis of thick blood smears employed in malaria diagnosis. Malar J 21, 74 (2022). https://doi.org/10.1186/s12936-022-04064-2
+>
+---
