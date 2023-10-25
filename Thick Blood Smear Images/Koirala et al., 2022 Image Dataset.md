@@ -29,6 +29,8 @@ It is a **thick** blood smear and **Field-stained** image dataset
 |:---:|:---:|:---:|
 |Publicly Available| [Dataset](https://air.ug/microscopy_dataset/)| 10.1109/ACCESS.2022.3208270|
 
-
-**If you are using this resource, please cite:**
-A. Koirala et al., "Deep Learning for Real-Time Malaria Parasite Detection and Counting Using YOLO-mp," in IEEE Access, vol. 10, pp. 102157-102172, 2022, doi: 10.1109/ACCESS.2022.3208270.
+---
+>
+> ❗🛑 **If you are using this resource, please cite:** A. Koirala et al., "Deep Learning for Real-Time Malaria Parasite Detection and Counting Using YOLO-mp," in IEEE Access, vol. 10, pp. 102157-102172, 2022, doi: 10.1109/ACCESS.2022.3208270.
+>
+---
