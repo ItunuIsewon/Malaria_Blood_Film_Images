@@ -1,4 +1,6 @@
 # **Aris et. al., 2021 Image Dataset**  
+**Article Title:** Color Constancy Analysis Approach for Color Standardization on Malaria Thick and Thin Blood Smear Images
+
 **_Article Link_:** [ref](https://www.researchgate.net/publication/342784269_Color_Constancy_Analysis_Approach_for_Color_Standardization_on_Malaria_Thick_and_Thin_Blood_Smear_Images)
 
 ## **Description**
