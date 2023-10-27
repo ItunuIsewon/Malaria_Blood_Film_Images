@@ -2,7 +2,7 @@
 **_Article Link_:** [ref](https://link.springer.com/chapter/10.1007/978-3-030-13835-6_7)
 
 ## **Description**
-It is a **thin** blood smear and **Giemsa-stained** image dataset.
+It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 ## **Demography**
 + **Country:** Switzerland
