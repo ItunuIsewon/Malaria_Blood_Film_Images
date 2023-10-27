@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2762023)
 
 ## **Description**
-It is a **thin** blood smear and **Giemsa-stained** image dataset 
+It is a **thin**, **Giemsa-stained** blood smear image dataset 
 
 ## **Demography**
 + **Country:** Taiwan
