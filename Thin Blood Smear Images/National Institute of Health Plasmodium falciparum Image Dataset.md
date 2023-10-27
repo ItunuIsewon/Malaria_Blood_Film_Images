@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](10.7717/peerj.4568)
 
 ## **Description**
-It is a **thin** blood smear and **Giemsa-stained** image dataset.
+It is a **thin**,**Giemsa-stained** blood smear image dataset.
 
 ## **Demography**
 + **Country:** Bangladesh
