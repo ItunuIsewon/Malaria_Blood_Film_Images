@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://www.researchgate.net/publication/359064205_Image_features_for_quality_analysis_of_thick_blood_smears_employed_in_malaria_diagnosis)
 
 ## **Description**
-It is a **thick** blood smear and **Modified Romanowsky-stained** blood smear image dataset 
+It is a **thick**, **Modified Romanowsky-stained** blood smear image dataset 
 
 ## **Demography**
 + **Country:** Colombia
