@@ -1,4 +1,6 @@
 # **Arshad et al., 2022 Image Dataset**  
+**Article Title:** A dataset and benchmark for malaria life-cycle classification in thin blood smear images
+
 **_Article Link_:** [ref](https://link.springer.com/article/10.1007/s00521-021-06602-6)
 
 ## **Description**
