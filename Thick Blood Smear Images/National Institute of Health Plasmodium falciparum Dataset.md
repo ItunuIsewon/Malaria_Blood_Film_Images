@@ -1,4 +1,6 @@
 # **National Institute of Health _Plasmodium falciparum_ Thick Blood Smear Image Dataset**  
+**Article Title:** Deep Learning for Smartphone-Based Malaria Parasite Detection in Thick Blood Smears
+
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/31545747/)
 
 ## **Description**
