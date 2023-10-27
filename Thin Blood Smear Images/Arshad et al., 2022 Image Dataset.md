@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://link.springer.com/article/10.1007/s00521-021-06602-6)
 
 ## **Description**
-It is a **thin** blood smear and **Giemsa-stained** image dataset.
+It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 ## **Demography**
 + **Country:** Pakistan
