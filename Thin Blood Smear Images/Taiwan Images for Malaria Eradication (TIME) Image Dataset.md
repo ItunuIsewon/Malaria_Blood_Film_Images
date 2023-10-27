@@ -1,4 +1,6 @@
 # **Taiwan Images for Malaria Eradication (TIME) Image Dataset**  
+**Article Title:** Assessment of Expert-Level Automated Detection of Plasmodium falciparum in Digitized Thin Blood Smear Images
+
 **_Article Link_:** [ref](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2762023)
 
 ## **Description**
