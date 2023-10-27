@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/33286429/)
 
 ## **Description**
-It is a **thin** blood smear and **MGG-stained** image dataset 
+It is a **thin**, **MGG-stained** blood smear image dataset 
 
 ## **Demography**
 + **Country:** Spain
