@@ -1,4 +1,6 @@
 # **Delgado-Ortet et. al., 2020 Image Dataset**  
+**Article Title:** A Deep Learning Approach for Segmentation of Red Blood Cell Images and Malaria Detection
+
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/33286429/)
 
 ## **Description**
