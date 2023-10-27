@@ -1,4 +1,6 @@
 # **Kanafiah et al., 2022 Image Dataset**  
+**Article Title:** An Intelligent Classification System for Trophozoite Stages in Malaria Species
+
 **_Article Link_:** [ref](https://www.techscience.com/iasc/v34n1/47349)
 
 ## **Description**
@@ -17,7 +19,10 @@ It is a **thin** blood smear image dataset.
 + **Camera Type:** Olympus XC50 Camera
 + **Magnification:** 100×
 + **Image Resolution:** 800 × 600 
-+ **Number of Images:** 150 images: Pv - 50, Pf - 50, Pk - 50
++ **Number of Images:** 150 images
+    - _P. vivax_ - 50 images
+    - _P. falciparum_ - 50 images
+    - _P. knowlesi_ - 50 images
   
 
 ## **Dataset Availability**
