@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://www.researchgate.net/publication/342784269_Color_Constancy_Analysis_Approach_for_Color_Standardization_on_Malaria_Thick_and_Thin_Blood_Smear_Images)
 
 ## **Description**
-It is a **thick and thin** blood smear and **Giemsa-stained** image dataset.
+It is a **thick and thin**, **Giemsa-stained** blood smearimage dataset.
 
 ## **Demography**
 + **Country:** Malaysia
