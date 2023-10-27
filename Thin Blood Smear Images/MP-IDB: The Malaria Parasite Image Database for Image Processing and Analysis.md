@@ -16,7 +16,11 @@ It is a **thin** blood smear and **Giemsa-stained** image dataset.
 + **Microscope:** Leica DM2000 optical laboratory microscope
 + **Magnification:** 100×
 + **Image Resolution:** 2592 × 1944
-+ **Number of Images:** 229 images: Pf - 122, Po - 29, Pm - 37, Pv - 46
++ **Number of Images:** 229 images
+    - _P. falciparum_ - 122 images
+    - _P. ovale_ - 29 images
+    - _P. malariae_ - 37 images
+    - _P. vivax_ - 46 images
 
 
 ## **Image Preview**
