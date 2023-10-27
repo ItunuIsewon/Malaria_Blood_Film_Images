@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/31545747/)
 
 ## **Description**
-It is a **thick** blood smear and **Giemsa-stained** image dataset.
+It is a **thick**, **Giemsa-stained** blood smear image dataset.
 
 ## **Demography**
 + **Country:** Bangladesh
