@@ -1,4 +1,6 @@
 # **Koirala et al., 2023 Image Dataset**  
+**Article Title:** Deep Learning for Real-Time Malaria Parasite Detection and Counting Using YOLO-mp
+
 **_Article Link_:** [ref](https://ieeexplore.ieee.org/document/9896857/)
 
 ## **Description**
