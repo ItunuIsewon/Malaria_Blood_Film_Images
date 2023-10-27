@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://www.researchgate.net/publication/342760083_Semantic_Segmentation_of_the_Growth_Stages_of_Plasmodium_Parasites_using_Convolutional_Neural_Networks)
 
 ## **Description**
-This is a **thin** blood smear and **Giemsa-stained** image dataset 
+This is a **thin**, **Giemsa-stained** blood smear image dataset 
 
 ## **Demography**
 + **Country:** Ghana
