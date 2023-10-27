@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://link.springer.com/chapter/10.1007/978-3-319-75193-1_23)
 
 ## **Description**
-This is a **thin** and **Giemsa-stained** blood smear image dataset 
+This is a **thin**, **Giemsa-stained** blood smear image dataset 
 
 ## **Demography**
 + **Country:** Spain 
