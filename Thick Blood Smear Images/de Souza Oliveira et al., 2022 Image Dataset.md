@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://link.springer.com/article/10.1007/s42452-020-3000-0)
 
 ## **Description**
-It is a **thick** blood smear and **Giemsa-stained** image dataset 
+It is a **thick**, **Giemsa-stained** blood smear image dataset 
 
 ## **Demography**
 + **Country:** Brazil:earth_americas:
