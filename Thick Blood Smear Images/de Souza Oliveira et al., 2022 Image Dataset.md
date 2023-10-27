@@ -1,4 +1,6 @@
 # **de Souza Oliveira et al., 2022 Image Dataset**  
+**Article Title:** A new approach for microscopic diagnosis of malaria parasites in thick blood smears using pre-trained deep learning models
+
 **_Article Link_:** [ref](https://link.springer.com/article/10.1007/s42452-020-3000-0)
 
 ## **Description**
