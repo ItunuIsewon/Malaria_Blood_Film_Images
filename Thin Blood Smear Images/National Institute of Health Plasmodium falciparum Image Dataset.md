@@ -1,4 +1,6 @@
 # **National Institute of Health _Plasmodium falciparum_ Image Dataset**  
+**Article Title:** Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images
+
 **_Article Link_:** [ref](10.7717/peerj.4568)
 
 ## **Description**
