@@ -1,4 +1,4 @@
-# **Koirala et al., 2023 Image Dataset**  
+# **Fong Amaris et al., 2022 Image Dataset**  
 **Article Title:** Image features for quality analysis of thick blood smears employed in malaria diagnosis
 
 **_Article Link_:** [ref](https://www.researchgate.net/publication/359064205_Image_features_for_quality_analysis_of_thick_blood_smears_employed_in_malaria_diagnosis)
