@@ -1,7 +1,11 @@
-# **National Institute of Health _Plasmodium falciparum_ Thick Blood Smear Image Dataset**  
-**Article Title:** Deep Learning for Smartphone-Based Malaria Parasite Detection in Thick Blood Smears
+# **National Institute of Health _Plasmodium falciparum_ Blood Smear Image Dataset**  
+**Article Title (Thick):** Deep Learning for Smartphone-Based Malaria Parasite Detection in Thick Blood Smears
 
-**_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/31545747/)
+**Article Title (Thin):** Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images
+
+**_Article Link_ (Thick):** [ref](https://pubmed.ncbi.nlm.nih.gov/31545747/)
+
+**_Article Link_ (Thin):** [ref](https://pubmed.ncbi.nlm.nih.gov/29682411/)
 
 ## **Description**
 It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
@@ -20,18 +24,24 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
 + **Magnification:** 100×
 
 ## **Image Preview**
-### **Infected**
+### **Thick (Infected)**
 ![Figure NIH-Pf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/NIH-%20ThickPf.jpg)
 
-
-### **Uninfected**
+### **Thick (Uninfected)**
 ![Figure NIH-Pf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/NIH%20uninfected.png)
+
+### **Thin (Infected)**
+![Figure NIH-Thinpf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/NIH_Infected%20Pf.png)
+
+### **Thin (Uninfected)**
+![Figure NIH-Thinpf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/NIH_Uninfected%20pf.png)
 
 
 ## **Dataset Availability**
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
-|Publicly available| [Dataset](https://data.lhncbc.nlm.nih.gov/public/Malaria/Thick_Smears_150/index.html)|10.1109/JBHI.2019.2939121|
+|Publicly available (Thick)| [Dataset](https://data.lhncbc.nlm.nih.gov/public/Malaria/Thick_Smears_150/index.html)|10.1109/JBHI.2019.2939121|
+|Publicly available (Thin)| [Dataset](https://data.lhncbc.nlm.nih.gov/public/Malaria/cell_images.zip)|10.7717/peerj.4568|
 
 
 ## **Cite this article**
