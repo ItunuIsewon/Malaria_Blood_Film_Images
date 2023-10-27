@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://ieeexplore.ieee.org/document/9896857/)
 
 ## **Description**
-It is a **thick** blood smear and **Field-stained** image dataset 
+It is a **thick**, **Field-stained** blood smear image dataset 
 
 ## **Demography**
 + **Country:** Uganda
