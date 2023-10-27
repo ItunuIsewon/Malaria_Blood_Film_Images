@@ -1,5 +1,7 @@
 # **Yu et al., 2023 Image Dataset**  
-**_Article Link_:** [ref](https://data.lhncbc.nlm.nih.gov/public/Malaria/MalariaScreener/inde×.html)
+**Article Title:** Patient-level performance evaluation of a smartphone-based malaria diagnostic application
+
+**_Article Link_:** [ref](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-023-04446-0)
 
 ## **Description**
 It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
