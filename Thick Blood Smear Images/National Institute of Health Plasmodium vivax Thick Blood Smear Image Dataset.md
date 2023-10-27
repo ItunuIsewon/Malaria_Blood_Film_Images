@@ -1,4 +1,6 @@
 # **National Institute of Health _Plasmodium vivax_ Thick Blood Smear Image Dataset**  
+**Article Title:** Diagnosing Malaria Patients with Plasmodium falciparum and vivax Using Deep Learning for Thick Smear Images
+
 **_Article Link_:** [ref](https://www.mdpi.com/2075-4418/11/11/1994)
 
 ## **Description**
