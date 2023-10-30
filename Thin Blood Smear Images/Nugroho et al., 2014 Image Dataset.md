@@ -21,9 +21,9 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset
 
 
 ## **Dataset Availability**
-|**Status**|**Dataset**|**DOI**|
-|:---:|:---:|:---:|
-|Publicly Available|[Dataset](https://figshare.com/articles/dataset/Datasets_for_AIDMAN_Steps_1-3/22679839) |10.1109/ICODSE.2014.7062676|
+|**Corresponding Author**|**DOI**|
+|:---:|:---:|
+|Anto Satriyo Nugroho (anto.satriyo@bppt.go.id) |10.1109/ICODSE.2014.7062676|
 
 
 ## **Cite this article**
