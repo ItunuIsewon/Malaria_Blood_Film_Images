@@ -1,4 +1,4 @@
-![image](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/assets/73642453/bc4f15b5-db99-4cc1-a548-21d1f937f7dd)# **Preedanan et al., 2016 Image Dataset**  
+# **Preedanan et al., 2016 Image Dataset**  
 **Article Title:** Automated Detection of Plasmodium Falciparum from Giemsa-Stained Thin Blood Films 
 
 **_Article Link_:** [ref](https://www.researchgate.net/publication/301710088_Automated_detection_of_plasmodium_falciparum_from_Giemsa-stained_thin_blood_films)
