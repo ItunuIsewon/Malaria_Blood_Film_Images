@@ -25,8 +25,8 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Liu R, Liu T, Dan T, Yang S, Li Y, Luo B, Zhuang Y, Fan X, Zhang X, Cai H, Teng Y. AIDMAN: An AI-based object detection system for malaria diagnosis from smartphone thin-blood-smear images. Patterns (N Y). 2023 Aug 3;4(9):100806. doi: 10.1016/j.patter.2023.100806. PMID: 37720337; PMCID: PMC10499858.
->
----
+
+❗🛑 **If you are using this resource, please cite:**
+```
+Liu R, Liu T, Dan T, Yang S, Li Y, Luo B, Zhuang Y, Fan X, Zhang X, Cai H, Teng Y. AIDMAN: An AI-based object detection system for malaria diagnosis from smartphone thin-blood-smear images. Patterns (N Y). 2023 Aug 3;4(9):100806. doi: 10.1016/j.patter.2023.100806. PMID: 37720337; PMCID: PMC10499858.
+```
