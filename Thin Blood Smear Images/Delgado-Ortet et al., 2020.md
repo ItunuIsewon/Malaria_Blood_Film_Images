@@ -20,11 +20,13 @@ It is a **thin**, **MGG-stained** blood smear image dataset
 + **Image Resolution:** 2400 × 1800
 + **Number of Images:** 517
 
+
 ## **Image Preview**
 ### **Infected**
 ![Figure Delgado](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/Delgado-Ortet%20et%20al..jpg) 
 ### **Uninfected**
 ![Figure Del_Un](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/Delgado-Ortet%20Uninfected.jpg)
+
 
 ## **Dataset Availability**
 |**Status**|**Dataset Link**|**DOI**|
@@ -33,8 +35,7 @@ It is a **thin**, **MGG-stained** blood smear image dataset
 
 
 ## **Cite this article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Delgado-Ortet M, Molina A, Alférez S, Rodellar J, Merino A. A Deep Learning Approach for Segmentation of Red Blood Cell Images and Malaria Detection. Entropy (Basel). 2020 Jun 13;22(6):657. doi: 10.3390/e22060657. PMID: 33286429; PMCID: PMC7517192.
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Delgado-Ortet M, Molina A, Alférez S, Rodellar J, Merino A. A Deep Learning Approach for Segmentation of Red Blood Cell Images and Malaria Detection. Entropy (Basel). 2020 Jun 13;22(6):657. doi: 10.3390/e22060657. PMID: 33286429; PMCID: PMC7517192.
+```
