@@ -21,14 +21,15 @@ This is a **thick**, **Giemsa-stained** image dataset
 + **Image Resolution:** 3136 × 2352 pixels
 + **Number of Images:** 87 images
 
+
 ## **Dataset Availability**
 |**Corresponding Author**|**DOI**|
 |:---:|:---:|
 |Ishan R. Dave (ishandave95@gmail.com)| 10.1109/WiSPNET.2017.8299974|
 
+
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** I. R. Dave, "Image analysis for malaria parasite detection from microscopic images of thick blood smear," 2017 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET), Chennai, India, 2017, pp. 1303-1307, doi: 10.1109/WiSPNET.2017.8299974.
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+I. R. Dave, "Image analysis for malaria parasite detection from microscopic images of thick blood smear," 2017 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET), Chennai, India, 2017, pp. 1303-1307, doi: 10.1109/WiSPNET.2017.8299974.
+```
