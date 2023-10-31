@@ -9,7 +9,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 The repository has been categorized into datasets that have both thick and thin blood smear images, thin blood smear images, and thick blood smear images. 
 
 **Dataset Categories**   
-[Thick Blood Smear Images](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick%20%26%20Thin%20Blood%20Smear%20Images/README.md)
+[Thick Blood Smear Images](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick%20%26%20Thin%20Blood%20Smear%20Images/README.html)
 
 
 ## **Usage:**
