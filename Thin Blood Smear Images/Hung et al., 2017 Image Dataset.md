@@ -26,8 +26,6 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Cite this article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Hung J, Lopes SCP, Nery OA, Nosten F, Ferreira MU, Duraisingh MT, Marti M, Ravel D, Rangel G, Malleret B, Lacerda MVG, Rénia L, Costa FTM, Carpenter AE. Applying Faster R-CNN for Object Detection on Malaria Images. Conf Comput Vis Pattern Recognit Workshops. 2017 Jul;2017:808-813. doi: 10.1109/cvprw.2017.112. Epub 2021 Nov 18. PMID: 34938593; PMCID: PMC8691760.
->
----
+```
+❗🛑 **If you are using this resource, please cite:** Hung J, Lopes SCP, Nery OA, Nosten F, Ferreira MU, Duraisingh MT, Marti M, Ravel D, Rangel G, Malleret B, Lacerda MVG, Rénia L, Costa FTM, Carpenter AE. Applying Faster R-CNN for Object Detection on Malaria Images. Conf Comput Vis Pattern Recognit Workshops. 2017 Jul;2017:808-813. doi: 10.1109/cvprw.2017.112. Epub 2021 Nov 18. PMID: 34938593; PMCID: PMC8691760.
+```
