@@ -3,8 +3,10 @@
 
 **_Article Link_:** [ref](https://www.researchgate.net/publication/342760083_Semantic_Segmentation_of_the_Growth_Stages_of_Plasmodium_Parasites_using_Convolutional_Neural_Networks)
 
+
 ## **Description**
 This is a **thin**, **Giemsa-stained** blood smear image dataset 
+
 
 ## **Demography**
 + **Country:** Ghana
@@ -28,9 +30,9 @@ This is a **thin**, **Giemsa-stained** blood smear image dataset
 |:---:|:---:|
 |Maxwell Mbabilla Aladago (maxwell.aladago@ashesi.edu.gh)| 10.1109/AFRICON46755.2019.9133937|
 
+
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Aladago, M.M., Torresani, L., & Rosca, E.V. (2019). Semantic Segmentation of the Growth Stages of Plasmodium Parasites using Convolutional Neural Networks. 2019 IEEE AFRICON, 1-7.
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Aladago, M.M., Torresani, L., & Rosca, E.V. (2019). Semantic Segmentation of the Growth Stages of Plasmodium Parasites using Convolutional Neural Networks. 2019 IEEE AFRICON, 1-7.
+```
