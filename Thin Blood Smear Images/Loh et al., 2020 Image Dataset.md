@@ -25,8 +25,7 @@ It is a **Giemsa-stained** blood smear image dataset
 
 
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Loh, D. R., Yong, W. X., Yapeter, J., Subburaj, K., & Chandramohanadas, R. (2021). A deep learning approach to the screening of malaria infection: Automated and rapid cell counting, object detection and instance segmentation using Mask R-CNN. Computerized Medical Imaging and Graphics, 88, 101845. https://doi.org/10.1016/j.compmedimag.2020.101845
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Loh, D. R., Yong, W. X., Yapeter, J., Subburaj, K., & Chandramohanadas, R. (2021). A deep learning approach to the screening of malaria infection: Automated and rapid cell counting, object detection and instance segmentation using Mask R-CNN. Computerized Medical Imaging and Graphics, 88, 101845. https://doi.org/10.1016/j.compmedimag.2020.101845
+```
