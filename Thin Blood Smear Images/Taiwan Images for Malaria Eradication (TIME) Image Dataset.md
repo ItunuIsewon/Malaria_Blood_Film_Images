@@ -26,8 +26,7 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset
 
 
 ## **Cite this article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Kuo P, Cheng H, Chen P, et al. Assessment of Expert-Level Automated Detection of Plasmodium falciparum in Digitized Thin Blood Smear Images. JAMA Netw Open. 2020;3(2):e200206. doi:10.1001/jamanetworkopen.2020.0206
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Kuo P, Cheng H, Chen P, et al. Assessment of Expert-Level Automated Detection of Plasmodium falciparum in Digitized Thin Blood Smear Images. JAMA Netw Open. 2020;3(2):e200206. doi:10.1001/jamanetworkopen.2020.0206
+```
