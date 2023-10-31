@@ -29,8 +29,7 @@ This is a **thin**, **Leishman-stained** blood smear image dataset.
 |C. CHAKRABORTY (chandanc@smst.iitkgp.ernet.in)|https://doi.org/10.1111/jmi.12206|
 
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Das DK, Maiti AK, Chakraborty C. Automated system for characterization and classification of malaria-infected stages using light microscopic images of thin blood smears. J Microsc. 2015 Mar;257(3):238-52. doi: 10.1111/jmi.12206. Epub 2014 Dec 18. PMID: 25523795.
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Das DK, Maiti AK, Chakraborty C. Automated system for characterization and classification of malaria-infected stages using light microscopic images of thin blood smears. J Microsc. 2015 Mar;257(3):238-52. doi: 10.1111/jmi.12206. Epub 2014 Dec 18. PMID: 25523795.
+```
