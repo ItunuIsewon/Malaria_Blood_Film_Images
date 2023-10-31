@@ -26,9 +26,9 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 |:---:|
 |Pilarita T Rivera (ptongolrivera@yahoo.com) |
 
+
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Cruz, C. J. G., Labreque, M., Goh, M. C., & Rivera, P. T. (2016). Automated parasite detection system for field malaria diagnosis in the Philippines. Southeast Asian Journal of Tropical Medicine and Public Health, 47(4), 600-606.
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Cruz, C. J. G., Labreque, M., Goh, M. C., & Rivera, P. T. (2016). Automated parasite detection system for field malaria diagnosis in the Philippines. Southeast Asian Journal of Tropical Medicine and Public Health, 47(4), 600-606.
+```
