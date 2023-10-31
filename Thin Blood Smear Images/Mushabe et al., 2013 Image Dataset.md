@@ -28,8 +28,7 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Mushabe, Mark & Dendere, Ronald & Douglas, Tania. (2013). Automated detection of malaria in Giemsa-stained thin blood smears. Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Conference. 2013. 3698-3701. 10.1109/EMBC.2013.6610346.
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Mushabe, Mark & Dendere, Ronald & Douglas, Tania. (2013). Automated detection of malaria in Giemsa-stained thin blood smears. Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Conference. 2013. 3698-3701. 10.1109/EMBC.2013.6610346.
+```
