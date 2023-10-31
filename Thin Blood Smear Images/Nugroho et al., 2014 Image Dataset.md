@@ -27,8 +27,7 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset
 
 
 ## **Cite this article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Nugroho, Anto & Gunawan, Made & Pragesjvara, Vitria & Riski, Miranti & Desiani, & Ashilah, Inas & Hariani, Isma & Rozi, Ismail & Asih, Puji & Salamah, Umi & Suryani, Esti. (2014). Two-stage feature extraction to identify Plasmodium ovale from thin blood smear microphotograph. Proceedings of 2014 International Conference on Data and Software Engineering, ICODSE 2014. 10.1109/ICODSE.2014.7062676.
->
----
+❗🛑 **If you are using this resource, please cite:**
+```
+Nugroho, Anto & Gunawan, Made & Pragesjvara, Vitria & Riski, Miranti & Desiani, & Ashilah, Inas & Hariani, Isma & Rozi, Ismail & Asih, Puji & Salamah, Umi & Suryani, Esti. (2014). Two-stage feature extraction to identify Plasmodium ovale from thin blood smear microphotograph. Proceedings of 2014 International Conference on Data and Software Engineering, ICODSE 2014. 10.1109/ICODSE.2014.7062676.
+```
