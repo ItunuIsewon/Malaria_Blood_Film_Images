@@ -24,9 +24,9 @@ This is a **thin** blood smear image dataset.
 |:---:|:---:|
 |Luís Rosado (luis.rosado@fraunhofer.pt)|https://doi.org/10.3390/s17102167|
 
+
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Rosado, L.; Da Costa, J.M.C.; Elias, D.; Cardoso, J.S. Mobile-Based Analysis of Malaria-Infected Thin Blood Smears: Automated Species and Life Cycle Stage Determination. Sensors 2017, 17, 2167. https://doi.org/10.3390/s17102167
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Rosado, L.; Da Costa, J.M.C.; Elias, D.; Cardoso, J.S. Mobile-Based Analysis of Malaria-Infected Thin Blood Smears: Automated Species and Life Cycle Stage Determination. Sensors 2017, 17, 2167. https://doi.org/10.3390/s17102167
+```
