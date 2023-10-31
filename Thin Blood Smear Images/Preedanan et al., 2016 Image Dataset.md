@@ -25,9 +25,9 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 |:---:|:---:|
 |Wongsakorn Preedanan (job.preedanan@gmail.com) |10.1109/KST.2016.7440501|
 
+
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Preedanan, W., Phothisonothai, M., Senavongse, W., & Tantisatirapong, S. (2016). Automated detection of plasmodium falciparum from Giemsa-stained thin blood films. 2016 8th International Conference on Knowledge and Smart Technology (KST), 215-218.
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Preedanan, W., Phothisonothai, M., Senavongse, W., & Tantisatirapong, S. (2016). Automated detection of plasmodium falciparum from Giemsa-stained thin blood films. 2016 8th International Conference on Knowledge and Smart Technology (KST), 215-218.
+```
