@@ -3,8 +3,10 @@
 
 **_Article Link_:** [ref](https://www.mdpi.com/2075-4418/11/11/1994)
 
+  
 ## **Description**
 It is a **thick**, **Giemsa-stained** blood smear image dataset.
+
 
 ## **Demography**
 + **Country:** Bangladesh
@@ -13,11 +15,13 @@ It is a **thick**, **Giemsa-stained** blood smear image dataset.
 + **Number of patients:** 200 patients 
 + **Parasite’s species:** _Plasmodium vivax_.
 
+
 ## **Imaging Technique**
 + **Optical Train:** Smartphone appended to a microscope eyepiece
 + **Image Resolution:** 3024 x 4032
 + **Microscope:** Light Microscope
 + **Magnification:** 100×
+
 
 ## **Image Preview**
 ### **Infected**
@@ -35,8 +39,7 @@ It is a **thick**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Cite this article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Kassim, Y.M.; Yang, F.; Yu, H.; Maude, R.J.; Jaeger, S. Diagnosing Malaria Patients with Plasmodium falciparum and vivax Using Deep Learning for Thick Smear Images. Diagnostics 2021, 11, 1994. https://doi.org/10.3390/diagnostics11111994
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Kassim, Y.M.; Yang, F.; Yu, H.; Maude, R.J.; Jaeger, S. Diagnosing Malaria Patients with Plasmodium falciparum and vivax Using Deep Learning for Thick Smear Images. Diagnostics 2021, 11, 1994. https://doi.org/10.3390/diagnostics11111994
+```
