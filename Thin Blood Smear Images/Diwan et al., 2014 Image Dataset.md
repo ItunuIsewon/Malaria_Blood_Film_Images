@@ -27,8 +27,7 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Linder N, Turkki R, Walliander M, Mårtensson A, Diwan V, Rahtu E, Pietikäinen M, Lundin M, Lundin J. A malaria diagnostic tool based on computer vision screening and visualization of Plasmodium falciparum candidate areas in digitized blood smears. PLoS One. 2014 Aug 21;9(8):e104855. doi: 10.1371/journal.pone.0104855. PMID: 25144549; PMCID: PMC4140733.
->
----
+❗🛑 **If you are using this resource, please cite:** 
+```
+Linder N, Turkki R, Walliander M, Mårtensson A, Diwan V, Rahtu E, Pietikäinen M, Lundin M, Lundin J. A malaria diagnostic tool based on computer vision screening and visualization of Plasmodium falciparum candidate areas in digitized blood smears. PLoS One. 2014 Aug 21;9(8):e104855. doi: 10.1371/journal.pone.0104855. PMID: 25144549; PMCID: PMC4140733.
+```
