@@ -1,4 +1,4 @@
-# Malaria-Blood-Smear-Images
+# Malaria Blood Smear Images
 
 
 ## **Repository description:**
