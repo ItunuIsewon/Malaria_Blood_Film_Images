@@ -6,6 +6,7 @@
 ## **Description**
 This is a **thin**, **Giemsa-stained** blood smear image dataset 
 
+ 
 ## **Demography**
 + **Country:** Spain 
 + **City:** Barcelona
@@ -21,14 +22,15 @@ This is a **thin**, **Giemsa-stained** blood smear image dataset
 + **Image Resolution:** 640 × 480 pixels
 + **Number of Images:** 50 images
 
+
 ## **Dataset Availability**
 |**Corresponding Author**|**DOI**|
 |:---:|:---:|
 |Bruno M. Carvalho (bruno@dimap.ufrn.br)| https://doi.org/10.1007/978-3-319-75193-1_23|
 
+
 ## **Cite this Article**
----
->
-> ❗🛑 **If you are using this resource, please cite:** Dantas Oliveira, A. et al. (2018). An Automatic System for Computing Malaria Parasite Density in Thin Blood Films. In: Mendoza, M., Velastín, S. (eds) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2017. Lecture Notes in Computer Science(), vol 10657. Springer, Cham. https://doi.org/10.1007/978-3-319-75193-1_23
->
----
+❗🛑 **If you are using this resource, please cite:**
+```
+Dantas Oliveira, A. et al. (2018). An Automatic System for Computing Malaria Parasite Density in Thin Blood Films. In: Mendoza, M., Velastín, S. (eds) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2017. Lecture Notes in Computer Science(), vol 10657. Springer, Cham. https://doi.org/10.1007/978-3-319-75193-1_23
+```
