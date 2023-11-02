@@ -13,7 +13,7 @@ The repository has been categorized into datasets that have both thick and thin 
 > #### **Thick and thin Blood Smear Images**  
 This category includes all image datasets from one source that have both thick and thin blood smear images.
 
-+ [Aris et al., 2021 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick%20%26%20Thin%20Blood%20Smear%20Images/Aris%20et%20al.%2C%202021%20Image%20Dataset.html)
++ [Aris et al., 2021 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick%20%26%20Thin%20Blood%20Smear%20Images/Aris%20et%20al.%2C%202021%20Image%20Dataset.md)
 + [Davidson et al., 2021 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick%20%26%20Thin%20Blood%20Smear%20Images/Davidson%20et%20al.%2C%202021%20Image%20Dataset.md)
 + [Khan et al., 2017 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick%20%26%20Thin%20Blood%20Smear%20Images/Aris%20et%20al.%2C%202021%20Image%20Dataset.md)
 + [National Institute of Health _Plasmodium falciparum_ Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick%20%26%20Thin%20Blood%20Smear%20Images/National%20Institute%20of%20Health%20Plasmodium%20falciparum%20Blood%20Smear%20Image%20Dataset.md)
