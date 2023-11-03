@@ -7,7 +7,7 @@
 It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 
-## **Demography**ia 
+## **Demography**
 + **Parasite’s species:** _Plasmodium falciparum_ strains 3D7, NF54, DD2, and D10
 
 
