@@ -1,4 +1,4 @@
-# **Aris et. al., 2021 Image Dataset**  
+# **Davidson et. al., 2021 Image Dataset**  
 **Article Title:** Automated detection and staging of malaria parasites from cytological smears using convolutional neural networks
 
 **_Article Link_:** [ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8724263/)
