@@ -4,7 +4,7 @@
 **Article Link:** [ref](https://pubs.aip.org/aip/acp/article/1818/1/020054/784009/Correlation-between-automatic-detection-of-malaria)
 
 ## **Description**
-It is a **thick and thin**, **Giemsa-stained**blood smear image dataset.
+It is a **thick and thin**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Demography**
