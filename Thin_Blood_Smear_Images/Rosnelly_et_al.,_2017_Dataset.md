@@ -20,13 +20,16 @@ It is a **thin**, **Giemsa-stained** image dataset
   
 
 ## **Dataset Availability**
+
 |**Corresponding Author**|
 |:---:|
 | Rika Rosnelly (rikarosnelly@gmail.com,)|
 
 
 ## **Cite this Article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Rosnelly, R. & Hartati, S. & Mulatsih, S.. (2017). Identification of malaria disease and its stadium based on digital image processing. 95. 700-710.
 ```
