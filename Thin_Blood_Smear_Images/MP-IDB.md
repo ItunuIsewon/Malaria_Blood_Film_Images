@@ -43,13 +43,16 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Dataset Availability**
+
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
 |Publicly available| [Dataset](https://github.com/andrealoddo/MP-IDB-The-Malaria-Parasite-Image-Database-for-Image-Processing-and-Analysis)| 10.1007/978-3-030-13835-6_7|
 
 
 ## **Cite this article**
+
  ❗🛑 **If you are using this resource, please cite:** 
+ 
  ```
  Loddo, A., Di Ruberto, C., Kocher, M., Prod’Hom, G. (2019). MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis. In: Lepore, N., Brieva, J., Romero, E., Racoceanu, D., Joskowicz, L. (eds) Processing and Analysis of Biomedical Information. SaMBa 2018. Lecture Notes in Computer Science(), vol 11379. Springer, Cham. https://doi.org/10.1007/978-3-030-13835-6_7
 ```
