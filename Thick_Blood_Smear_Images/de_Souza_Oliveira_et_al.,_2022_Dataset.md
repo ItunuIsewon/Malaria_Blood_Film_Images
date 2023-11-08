@@ -23,13 +23,16 @@ It is a **thick**, **Giemsa-stained** blood smear image dataset
 
 
 ## **Dataset Availability**
+
 |**Status**|**Corresponding Author**|**DOI**|
 |:---:|:---:|:---:|
 |Available on Request|C. Ferreira Fernandes Costa Filho (ccosta@ufam.edu.br) |https://doi.org/10.1016/j.bspc.2022.103931|
 
 
 ## **Cite this Article**
+
 ❗:stop_sign:  **If you are using this resource, please cite:** 
+
 ```
 Fong Amaris, W.M., Martinez, C., Cortés-Cortés, L.J. et al. Image features for quality analysis of thick blood smears employed in malaria diagnosis. Malar J 21, 74 (2022). https://doi.org/10.1186/s12936-022-04064-2
 ```
