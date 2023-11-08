@@ -20,13 +20,16 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset
 + **Number of Images:** 8145
 
 ## **Dataset Availability**
+
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
 |Publicly available| [Dataset](https://ai.cdc.gov.tw/datasets/)|10.1001/jamanetworkopen.2020.0206|
 
 
 ## **Cite this article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Kuo P, Cheng H, Chen P, et al. Assessment of Expert-Level Automated Detection of Plasmodium falciparum in Digitized Thin Blood Smear Images. JAMA Netw Open. 2020;3(2):e200206. doi:10.1001/jamanetworkopen.2020.0206
 ```
