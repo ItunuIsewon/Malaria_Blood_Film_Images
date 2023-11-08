@@ -42,6 +42,7 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Dataset Availability**
+
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
 |Publicly available (Thick)| [Dataset](https://data.lhncbc.nlm.nih.gov/public/Malaria/Thick_Smears_150/index.html)|10.1109/JBHI.2019.2939121|
@@ -49,7 +50,9 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Cite this article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Yang F, Poostchi M, Yu H, Zhou Z, Silamut K, Yu J, Maude RJ, Jaeger S, Antani S. Deep Learning for Smartphone-Based Malaria Parasite Detection in Thick Blood Smears. IEEE J Biomed Health Inform. 2020 May;24(5):1427-1438. doi: 10.1109/JBHI.2019.2939121. Epub 2019 Sep 23. PMID: 31545747.
 ```
