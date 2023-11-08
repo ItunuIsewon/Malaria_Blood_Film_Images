@@ -26,13 +26,16 @@ It is a **thin** blood smear image dataset.
   
 
 ## **Dataset Availability**
+
 |**Status**|**Corresponding Author**|**DOI**|
 |:---:|:---:|:---:|
 |Available on Request| Siti Nurul Aqmariah Mohd Kanafiah (aqmariah@unimap.edu.my)|https://doi.org/10.32604/iasc.2022.024361|
 
 
 ## **Cite this Article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 S. Nurul Aqmariah Mohd Kanafiah, M. Yusoff Mashor, Z. Mohamed, Y. Chun Way, S. Aniza Abdul Shukor et al., "An intelligent classification system for trophozoite stages in malaria species," Intelligent Automation & Soft Computing, vol. 34, no.1, pp. 687–697, 2022.
 ```
