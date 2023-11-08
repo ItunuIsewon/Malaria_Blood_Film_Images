@@ -25,7 +25,9 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Cite this Article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Abdul Nasir, Aimi Salihah & Mashor, Mohd & Abd halim, Nurul hazwani & Mohamed, Zeehaida. (2014). The Cascaded Moving k-Means and Fuzzy c-Means Clustering Algorithms for Unsupervised Segmentation of Malaria Images. 1660. 10.1063/1.4915828.
 ```
