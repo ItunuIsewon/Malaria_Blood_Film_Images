@@ -24,13 +24,16 @@ This is a **thin**, **Giemsa-stained** blood smear image dataset
   
 
 ## **Dataset Availability**
+
 |**Corresponding Author**|**DOI**|
 |:---:|:---:|
 |A. Acherar ( aniss.acherar@gmail.com)|https://doi.org/10.1016/j.imu.2022.101132 |
 
 
 ## **Cite this Article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Molina A, Alférez S, Boldú L, Acevedo A, Rodellar J, Merino A. Sequential classification system for recognition of malaria infection using peripheral blood cell images. J Clin Pathol. 2020 Oct;73(10):665-670. doi: 10.1136/jclinpath-2019-206419. Epub 2020 Mar 16. PMID: 32179558.
 ```
