@@ -26,13 +26,16 @@ This is a **thin**, **Giemsa-stained** blood smear image dataset
   
 
 ## **Dataset Availability**
+
 |**Corresponding Author**|**DOI**|
 |:---:|:---:|
 |Maxwell Mbabilla Aladago (maxwell.aladago@ashesi.edu.gh)| 10.1109/AFRICON46755.2019.9133937|
 
 
 ## **Cite this Article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Aladago, M.M., Torresani, L., & Rosca, E.V. (2019). Semantic Segmentation of the Growth Stages of Plasmodium Parasites using Convolutional Neural Networks. 2019 IEEE AFRICON, 1-7.
 ```
