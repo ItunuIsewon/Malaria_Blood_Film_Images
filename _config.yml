@@ -4,3 +4,4 @@ plugins:
 
 title: [Malaria Blood Smear Images]
 description: [A respository of available blood smear images for the automated diagnosis of malaria]
+markdown: GFM
