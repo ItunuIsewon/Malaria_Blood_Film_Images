@@ -33,13 +33,16 @@ It is a **thick**, **Giemsa-stained** blood smear image dataset.
 
 
 ## **Dataset Availability**
+
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
 |Publicly available| [Dataset](https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-datasheet.html)|https://doi.org/10.3390/diagnostics11111994|
 
 
 ## **Cite this article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Kassim, Y.M.; Yang, F.; Yu, H.; Maude, R.J.; Jaeger, S. Diagnosing Malaria Patients with Plasmodium falciparum and vivax Using Deep Learning for Thick Smear Images. Diagnostics 2021, 11, 1994. https://doi.org/10.3390/diagnostics11111994
 ```
