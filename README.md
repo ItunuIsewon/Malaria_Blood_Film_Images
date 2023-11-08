@@ -5,6 +5,47 @@
 Computer-aided diagnosis uses computers and computational tools to analyze and evaluate medical data for diagnosing diseases. Recent advances in research have demonstrated the use of computer-aided diagnosis methods for diagnosing diseases. This repository contains all available malaria blood smear image datasets. It is a one-stop shop for researchers and developers working on malaria detection and diagnosis. These datasets were obtained by carrying out a systematic review of papers published between 2013 and 2023 on automated malaria diagnosis.
 
 
+<style>
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+
+.node text {
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+
+</style>
+
+<div id="graph"></div>
+
+<!-- load the d3.js library -->	
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+
+<script>
+	
+var treeData = [{
+	"name": "Blood Smear Image Datasets",
+	"url":"https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/README.md",
+	"parent": "null",
+	"children": [{
+		"name": "Open Access Datasets",
+    "url": "https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access.md"
+		"parent": "Blood Smear Image Datasets"
+  }]
+    "name": "Controlled Access Datasets",
+    "url":"https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access.md",
+	  "parent": "Blood Smear Image Datasets"
+		
+
 ## **Image Dataset Categories**
 The repository has been categorized into datasets that have both thick and thin blood smear images, thin blood smear images, and thick blood smear images. 
 
