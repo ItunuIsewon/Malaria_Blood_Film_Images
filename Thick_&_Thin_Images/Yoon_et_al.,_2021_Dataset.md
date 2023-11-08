@@ -21,13 +21,16 @@ It is a **thick and thin**, **Giemsa-stained** blood smear image dataset.
   
 
 ## **Dataset Availability**
+
 |**Correspondence**|**DOI**|
 |:---:|:---:|
 |malarim@korea.ac.kr|10.3390/diagnostics11030527|
 
 
 ## **Cite this Article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Yoon J, Jang WS, Nam J, Mihn DC, Lim CS. An Automated Microscopic Malaria Parasite Detection System Using Digital Image Analysis. Diagnostics (Basel). 2021 Mar 16;11(3):527. doi: 10.3390/diagnostics11030527. PMID: 33809642; PMCID: PMC8002244.
 ```
