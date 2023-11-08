@@ -19,7 +19,7 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 ## **Dataset Availability**
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
-|Publicly Available**|https://bbbc.broadinstitute.org/BBBC041|10.1038/nmeth.2083|
+|Publicly Available|https://bbbc.broadinstitute.org/BBBC041|10.1038/nmeth.2083|
 
 
 ## **Cite this Article**
