@@ -25,13 +25,16 @@ It is a **thin** blood smear image dataset.
   
 
 ## **Dataset Availability**
+
 |**Corresponding Author**|**DOI**|
 |:---:|:---:|
 |Maitreya Maity (maitreya@iitkgp.ac.in)|https://doi.org/10.1016/j.patrec.2020.07.002|
 
 
 ## **Cite this Article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Maity, Maitreya & Jaiswal, Ayush & Gantait, Kripasindhu & Chatterjee, Jyotirmoy & Mukherjee, Anirban. (2020). Quantification of malaria parasitaemia using trainable semantic segmentation and capsnet. Pattern Recognition Letters. 138. 10.1016/j.patrec.2020.07.002.
 ```
