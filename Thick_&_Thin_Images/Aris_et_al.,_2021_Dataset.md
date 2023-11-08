@@ -27,13 +27,16 @@ It is a **thick and thin**, **Giemsa-stained** blood smear image dataset.
   
 
 ## **Dataset Availability**
+
 |**Corresponding Author**|**DOI**|
 |:---:|:---:|
 |Thaqifah Ahmad Aris (sqeifa.aris@gmail.com)| 10.1007/978-981-15-5281-6_57|
 
 
 ## **Cite this Article**
+
 ❗🛑 **If you are using this resource, please cite:** 
+
 ```
 Aris, Thaqifah & Abdul Nasir, Aimi Salihah & Jaafar, Haryati & Lim, Cheechin & Mohamed, Zeehaida. (2021). Color Constancy Analysis Approach for Color Standardization on Malaria Thick and Thin Blood Smear Images. 10.1007/978-981-15-5281-6_57.
 ```
