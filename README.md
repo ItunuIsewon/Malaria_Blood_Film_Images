@@ -4,33 +4,6 @@
 
 Computer-aided diagnosis uses computers and computational tools to analyze and evaluate medical data for diagnosing diseases. Recent advances in research have demonstrated the use of computer-aided diagnosis methods for diagnosing diseases. This repository contains all available malaria blood smear image datasets. It is a one-stop shop for researchers and developers working on malaria detection and diagnosis. These datasets were obtained by carrying out a systematic review of papers published between 2013 and 2023 on automated malaria diagnosis.
 
-
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>Markmap</title>
-<style>
-* {
-  margin: 0;
-  padding: 0;
-}
-#mindmap {
-  display: block;
-  width: 100vw;
-  height: 100vh;
-}
-</style>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.4/dist/style.css">
-</head>
-<body>
-<svg id="mindmap"></svg>
-<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.15.4/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.4/dist/index.js"></script><script>(()=>{setTimeout(()=>{const{markmap:M,mm:ge}=window,me=new M.Toolbar;me.attach(ge);const fe=me.render();fe.setAttribute("style","position:absolute;bottom:20px;right:20px"),document.body.append(fe)})})()</script><script>((F,I,R,H)=>{const X=F();window.mm=X.Markmap.create("svg#mindmap",(I||X.deriveOptions)(H),R)})(()=>window.markmap,null,{"type":"heading","depth":0,"payload":{"lines":[1,2]},"content":"markmap","children":[{"type":"heading","depth":1,"payload":{"lines":[3,4]},"content":"Malaria","children":[{"type":"bullet_list","depth":2,"payload":{"lines":[5,6]},"content":"","children":[{"type":"list_item","depth":3,"payload":{"lines":[5,6]},"content":"<a href=\"https://en.wikipedia.org/wiki/Malaria\">Disease</a>","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[6,7]},"content":"Typhoid","children":[{"type":"list_item","depth":3,"payload":{"lines":[7,8]},"content":"<a href=\"https://en.wikipedia.org/wiki/History_of_malaria\">History</a>","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[9,10]},"content":"Toxoplasmosis","children":[{"type":"list_item","depth":2,"payload":{"lines":[11,12]},"content":"<a href=\"https://en.wikipedia.org/wiki/Toxoplasmosis\">Disease</a>","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[12,13]},"content":"<a href=\"https://emedicine.medscape.com/article/229969-overview?form=fpf\">History</a>","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[14,15]},"content":"Features","children":[{"type":"list_item","depth":2,"payload":{"lines":[16,17]},"content":"<a href=\"https://en.wikipedia.org/wiki/Typhoid_fever\">Typhoid</a>","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[17,18]},"content":"<a href=\"https://en.wikipedia.org/wiki/Yellow_fever\">Yellow Fever</a>","children":[]}]}]},{"colorFreezeLevel":2})</script>
-</body>
-</html>
-
 				
 ## **Image Dataset Categories**
 The repository has been categorized into datasets that have both thick and thin blood smear images, thin blood smear images, and thick blood smear images. 
