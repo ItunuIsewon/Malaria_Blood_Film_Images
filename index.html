@@ -1,0 +1,28 @@
+<script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.0.10/dist/viewer.min.js"></script>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.0.10/dist/viewer.min.js"></script>
+  <title>Markmap on GitHub Page</title>
+</head>
+<body>
+  <div id="markmap"></div>
+  <script>
+    // Your Markmap data goes here
+    const markmapData = `
+    
+- [Malaria Blood Smear Image](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/README.md)
+  - [Open Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access.md)
+  - [Controlled Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access.md)
+`;
+
+    // Render the Markmap
+    markmap('markmap', markmapData);
+  </script>
+</body>
+</html>
