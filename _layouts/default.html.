@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<iframe src="https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/index.html"></iframe>
+<iframe src="index.html"></iframe>
 
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
