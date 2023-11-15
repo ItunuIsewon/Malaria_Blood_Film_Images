@@ -3,19 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My GitHub Page</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-lib/dist/viewer.css">
+  <title>Malaria Blood Smear Images</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-view/dist/viewer.css">
 </head>
 <body>
 
   <div id="mindmap"></div>
 
-  <script type="module" src="https://cdn.jsdelivr.net/npm/markmap-lib/dist/viewer.js"></script>
-
+  <script src="https://cdn.jsdelivr.net/npm/markmap-view/dist/viewer.js"></script>
   <script>
     const { Markmap, load } = window.markmap;
     const mm = new Markmap();
-    load('https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/mindmap.md', mm);
+    load('mindmap.md', mm);
     mm.render(document.getElementById('mindmap'));
   </script>
 
