@@ -1,5 +1,5 @@
 # Description
-The following are open-access datasets that contain thick blood smear images from one source.
+The following are open-access datasets that contain thick blood smear images.
 
 ## Thick Blood Smear Image Datasets
 + [Fong Amaris et al., 2022 Image Dataset](Thick_Blood_Smear_Images/Fong_Amaris_et_al.,_2022_Dataset.md)
