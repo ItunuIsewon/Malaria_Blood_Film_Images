@@ -83,51 +83,79 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 
 <script>
-    var treeData = [{
-        "name": "Malaria Blood Smear Images",
-        "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/",
-        "parent": "null",
-        "children": [{
-            "name": "Open Access",
-            "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
-            "parent": "Malaria Blood Smear Images",
-            "children": [{
-                "name": "Thick & Thin Blood Smear",
-                "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
-                "parent": "Open Access",
-                "children": [{
-                    "name": "Thick Blood Smear",
-                    "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
-                    "parent": "Open Access",
-                    "children": [{
-                        "name": "Thin Blood Smear",
-                        "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
-                        "parent": "Open Access"
-                    }]
-                }]
-            }]
-        }, {
-            "name": "Controlled Access",
-            "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
-            "parent": "Malaria Blood Smear Images",
-            "children": [{
-                "name": "Thick & Thin Blood Smear",
-                "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
-                "parent": "Controlled Access",
-                "children": [{
-                    "name": "Thick Blood Smear",
-                    "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
-                    "parent": "Controlled Access",
-                    "children": [{
-                        "name": "Thin Blood Smear",
-                        "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
-                        "parent": "Controlled Access"
-                    }]
-                }]
-            }]
-        }]
-    }];
-
+   var treeData = [{
+	"name": "machine learning",
+	"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/intro_to_ml.html",
+	"parent": "null",
+	"children": [{
+		"name": "Good data size",
+		"parent": "machine learning",
+		"children": [{
+				"name": "Pre-processing",
+				"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/preprocessing_intro.html",
+				"parent": "Good data size",
+				"children": [{
+					"name": "Known outcomes",
+					"parent": "Pre-processing",
+					"children": [{
+						"name": "Supervised Learning",
+						"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/Supervised-Learning-1-0.html",
+						"parent": "Known outcomes",
+						"children": [{
+								"name": "Predict a group (classification)",
+								"parent": "Supervised Learning"
+							},
+							{
+								"name": "Predict a continuous value (regression)",
+								"parent": "Supervised Learning",
+								"children": [{
+									"name": "result validation",
+									"parent": "Predict a continuous value (regression)",
+									"parent": "Predict a group (classification)",
+									"children": [{
+										"name": "cross validation",
+										"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/crossvalidation.html",
+										"parent": "result validation"
+									}]
+								}]
+							}
+						]
+					}]
+				}, {
+					"name": "Unknown outcomes",
+					"parent": "Pre-processing",
+					"children": [{
+						"name": "Unsupervised Learning",
+						"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/unsupervised_learning_intro.html",
+						"parent": "Unknown outcomes",
+						"children": [{
+								"name": "Identify groups (clustering)",
+								"parent": "Unsupervised Learning"
+							},
+							{
+								"name": "reduce number of variables",
+								"parent": "Unsupervised Learning",
+								"children": [{
+									"name": "PCA",
+									"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/pca.html",
+									"parent": "reduce number of variables"
+								}]
+							}
+						]
+					}]
+				}]
+			},
+			{
+				"name": "Inadequate data size",
+				"parent": "machine learning",
+				"children": [{
+					"name": "Enrich set",
+					"parent": "Inadequate data size"
+				}]
+			}
+		]
+	}]
+}];
 
 	
 // ************** Generate the tree diagram	 *****************
