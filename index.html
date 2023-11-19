@@ -83,58 +83,53 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 
 <script>
-	
-var treeData = [{
-	"name": "Malaria Blood Smear Images",
-	"url":"https://itunuisewon.github.io/Malaria_Blood_Smear_Images/",
-	"parent": "null",
-	"children": [{
-		    "name": "Open Access",
+    var treeData = [{
+        "name": "Malaria Blood Smear Images",
+        "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/",
+        "parent": "null",
+        "children": [{
+            "name": "Open Access",
             "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
-		    "parent": "Malaria Blood Smear Images",
-		        "children": [{
-			        "name": "Thick & Thin Blood Smear",
-		            "url":"https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
-			        "parent": "Open Access",
-		        "children": [{
-			        "name": "Thick Blood Smear",
-                    "url":"https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
-			        "parent": "Open Access",
-		        "children": [{
-			        "name": "Thin Blood Smear",
-			        "url":"https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
-			        "parent": "Open Access",
-					}]
-				}]
-			}]
-},
-				
-		{
-
-		    "name": "Controlled Access",
+            "parent": "Malaria Blood Smear Images",
+            "children": [{
+                "name": "Thick & Thin Blood Smear",
+                "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
+                "parent": "Open Access",
+                "children": [{
+                    "name": "Thick Blood Smear",
+                    "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
+                    "parent": "Open Access",
+                    "children": [{
+                        "name": "Thin Blood Smear",
+                        "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
+                        "parent": "Open Access"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Controlled Access",
             "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
-		    "parent": "Malaria Blood Smear Images",
-		        "children": [{
-			        "name": "Thick & Thin Blood Smear",
-			        "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
-                    "parent": "Controlled Access",
+            "parent": "Malaria Blood Smear Images",
+            "children": [{
+                "name": "Thick & Thin Blood Smear",
+                "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
+                "parent": "Controlled Access",
                 "children": [{
                     "name": "Thick Blood Smear",
                     "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
                     "parent": "Controlled Access",
-                "children":[{
-                    "name": "Thin Blood Smear",
-                    "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
-                    "parent": "Controlled Access"
-
-             }]
+                    "children": [{
+                        "name": "Thin Blood Smear",
+                        "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
+                        "parent": "Controlled Access"
+                    }]
+                }]
+            }]
         }]
-	}]
-		}
+    }];
 
-    ]
-		}];
 
+	
 // ************** Generate the tree diagram	 *****************
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
 	width = 960 - margin.right - margin.left,
