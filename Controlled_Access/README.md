@@ -3,6 +3,6 @@ This is a collection of controlled-access datasets as reported by the researcher
 
 
 ## Datasets
-- [Thick & Thin Blood Smear Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access/Thick%26Thin-CA.md)
-- [Thick Blood Smear Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access/Thick-CA.md)
-- [Thin Blood Smear Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access/Thin-CA.md)
+- [Thick & Thin Blood Smear Image Dataset](Controlled_Access/Thick&Thin-CA.md)
+- [Thick Blood Smear Image Dataset](Controlled_Access/Thick-CA.md)
+- [Thin Blood Smear Image Dataset](Controlled_Access/Thin-CA.md)
