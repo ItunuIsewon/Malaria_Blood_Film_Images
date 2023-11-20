@@ -4,7 +4,7 @@ This is a collection of openly accessible datasets, as reported by the researche
 
 
 ## Datasets
-- [Thick & Thin Blood Smear Image Datasets](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/Thick%26Thin-OA.md)
+- [Thick & Thin Blood Smear Image Datasets](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/tree/main/Open_Access/Thick_%26_Thin-OA)
 - [Thick Blood Smear Image Datasets](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/Thick-OA.md)
 - [Thin Blood Smear Image Datasets](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/Thin-OA.md)
 
