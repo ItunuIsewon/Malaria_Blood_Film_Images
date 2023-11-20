@@ -4,7 +4,15 @@ This is a collection of openly accessible datasets, as reported by the researche
 
 
 ## Datasets
-- [Thick & Thin Blood Smear Image Datasets](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/Thick_%26_Thin-OA/README.md)
+- [Key Learning Outcomes](#key-learning-outcomes)
 - [Thick Blood Smear Image Datasets](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/Thick-OA.md)
 - [Thin Blood Smear Image Datasets](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/Thin-OA.md)
 
+## Key Learning Outcomes
+After completing this practical, you should be able to:
+  1. know how to adjust for ascertainment bias in case-control analysis
+  2. Know how over-fitting aﬀects PRS results and how to handle it 
+  3. understand distribution of PRS
+  4. understand diﬀerent file formats involved in gene-set analysis
+  5. understand diﬀerence between self-contained and competitive gene-set analyses
+  6. Calculate pathway based PRS
