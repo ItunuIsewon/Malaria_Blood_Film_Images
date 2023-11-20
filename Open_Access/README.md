@@ -22,9 +22,9 @@ My choice of applying for the PhD program in Genomic Epidemiology and Public Hea
 Ultimately, it is my strong desire to attain a faculty position at a university and to be involved in continuous research in bioinformatics helping me to make significant contributions to my immediate environment and to the scientific community at large.
 Thank you for considering my candidacy.
 
-
+## Key Learning Outcomes
 ><details>
-> <summary>## Key Learning Outcomes</summary>     
+> <summary> </summary>     
 >
 > After completing this practical, you should be able to:
 >  1. know how to adjust for ascertainment bias in case-control analysis
