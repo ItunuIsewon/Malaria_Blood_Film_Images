@@ -1,4 +1,4 @@
-# Description
+# Thick Blood Smear (Open Access)
 The following are open-access datasets that contain thick blood smear images.
 
 ## Thick Blood Smear Image Datasets
