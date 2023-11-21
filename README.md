@@ -13,7 +13,7 @@ The repository has been categorized into datasets that have both thick and thin 
 [Smear Type](#smear-type)
 
 
-### Accessibility Status
+### **Accessibility Status**
 ---
 >
 >
@@ -32,7 +32,7 @@ The repository has been categorized into datasets that have both thick and thin 
 
 ---
 
-### Smear Type
+### **Smear Type**
 ---
 >
 >
@@ -106,5 +106,5 @@ If you are aware of any other malaria blood image datasets that are not included
 
 
 ******
-## License
+## **License**
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
