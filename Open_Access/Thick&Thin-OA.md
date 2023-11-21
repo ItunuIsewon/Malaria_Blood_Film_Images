@@ -1,4 +1,4 @@
-# Description
+# Thick & Thin Blood Smear (Open Access)
 The following are open-access datasets that contain both thick and thin blood smear images from one source.
 
 ## Thick and thin Blood Smear Image Datasets
