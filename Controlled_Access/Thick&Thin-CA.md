@@ -1,4 +1,4 @@
-# Description
+# Thick & Thin (Controlled Access)
 The following are controlled-access datasets that contain both thick and thin blood smear images from one source.
 
 ## Datasets
