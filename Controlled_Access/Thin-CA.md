@@ -1,4 +1,4 @@
-# Description
+# Thin Blood Smear (Controlled Access)
 The following are controlled-access datasets that contain thin blood smear images.
 
 
