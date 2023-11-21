@@ -9,30 +9,34 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 The repository has been categorized into datasets that have both thick and thin blood smear images, thin blood smear images, and thick blood smear images.
 
 [Accessibility Status](#accessibility-status)
+
 [Smear Type](#smear-type)
 
 
-## Accessibility Status
+### Accessibility Status
+---
 >
 >
-### [Open Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/README.md)
+#### [Open Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/README.md)
 + [Thick & Thin Blood Smear](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/Thick_%26_Thin-OA/README.md)
 + [Thick Blood Smear](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/Thick-OA.md)
 + [Thin Blood Smear](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/Thin-OA.md)
 
-### [Controlled Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access/README.md)
+#### [Controlled Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access/README.md)
 + [Thick & Thin Blood Smear Image Dataset](Controlled_Access/Thick&Thin-CA.md)
 + [Thick Blood Smear Image Dataset](Controlled_Access/Thick-CA.md)
 + [Thin Blood Smear Image Dataset](Controlled_Access/Thin-CA.md)
 >
 >
----
 <a href="#top">[Back to Top](#image-dataset-categories)</a>
 
-## Smear Type
+---
+
+### Smear Type
+---
 >
 >
-### **Thick and thin Blood Smear Images**  
+#### **Thick and thin Blood Smear Images**  
 This category includes all image datasets from one source that have both thick and thin blood smear images.
 
 + [Aris et al., 2021 Image Dataset](Thick_&_Thin_Images/Aris_et_al.,_2021_Dataset.md)
@@ -43,7 +47,7 @@ This category includes all image datasets from one source that have both thick a
 + [Yu et al., 2023 Image Dataset](Thick_&_Thin_Images/Yu_et_al.,_2023_Dataset.md)
 
 
-### **Thick Blood Smear Images**   
+#### **Thick Blood Smear Images**   
 This category includes all thick blood smear image datasets.
 + [Dave, 2018 Image Dataset](Thick_Blood_Smear_Images/Dave_2018_Dataset.md)
 + [Fong Amaris et al., 2022 Image Dataset](Thick_Blood_Smear_Images/Fong_Amaris_et_al.,_2022_Dataset.md)
@@ -53,7 +57,7 @@ This category includes all thick blood smear image datasets.
 + [de Souza Oliveira et al., 2022 Image Dataset](Thick_Blood_Smear_Images/de_Souza_Oliveira_et_al.,_2022_Dataset.md)
 
 
-### **Thin Blood Smear Images**   
+#### **Thin Blood Smear Images**   
 This category includes all thin blood smear image datasets.
 + [Abdul-Nasir et al., 2015 Image Dataset](Thin_Blood_Smear_Images/Abdul-Nasir_et_al.,_2015_Dataset.md)
 + [Aladago et al., 2019 Image Dataset](Thin_Blood_Smear_Images/Aladago_et_al.,_2019.md)
@@ -85,8 +89,11 @@ This category includes all thin blood smear image datasets.
 + [The Broad Bioimage Benchmark Collection](Thin_Blood_Smear_Images/BBBC.md)
 >
 >
----
+
 <a href="#top">[Back to Top](#image-dataset-categories)</a>
+
+---
+
 
 ## **Usage:**
 
