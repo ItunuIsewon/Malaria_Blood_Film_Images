@@ -17,13 +17,13 @@ The repository has been categorized into datasets that have both thick and thin 
 ---
 >
 >
-#### [Open Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access/README.md)
+#### [Open Access](Open_Access/README.md)
 + [Thick & Thin Blood Smear](Open_Access/Thick&Thin-OA.md)
 + [Thick Blood Smear](Open_Access/Thick-OA.md)
 + [Thin Blood Smear](Open_Access/Thin-OA.md)
 
 
-#### [Controlled Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access/Controlled_Access.md)
+#### [Controlled Access](Controlled_Access/README.md)
 + [Thick & Thin Blood Smear Image Dataset](Controlled_Access/Thick&Thin-CA.md)
 + [Thick Blood Smear Image Dataset](Controlled_Access/Thick-CA.md)
 + [Thin Blood Smear Image Dataset](Controlled_Access/Thin-CA.md)
