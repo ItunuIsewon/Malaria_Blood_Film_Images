@@ -1,4 +1,4 @@
-# Description
+# Thick Blood Smear (Controlled Access)
 The following are controlled-access datasets that contain thick blood smear images.
 
 ## Datasets
