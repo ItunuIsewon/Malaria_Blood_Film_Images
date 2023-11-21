@@ -1,4 +1,4 @@
-# Description
+# Thin Blood Smear (Open Access)
 
 The following are open-access datasets that contain thin blood smear images.
 
