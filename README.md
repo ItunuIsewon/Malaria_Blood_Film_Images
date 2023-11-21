@@ -17,10 +17,11 @@ The repository has been categorized into datasets that have both thick and thin 
 ---
 >
 >
-#### [Open Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Open_Access/README.md)
+#### [Open Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access/README.md)
 + [Thick & Thin Blood Smear](Open_Access/Thick&Thin-OA.md)
 + [Thick Blood Smear](Open_Access/Thick-OA.md)
 + [Thin Blood Smear](Open_Access/Thin-OA.md)
+
 
 #### [Controlled Access](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Controlled_Access/Controlled_Access.md)
 + [Thick & Thin Blood Smear Image Dataset](Controlled_Access/Thick&Thin-CA.md)
@@ -29,6 +30,8 @@ The repository has been categorized into datasets that have both thick and thin 
 >
 >
 <a href="#top">[Back to Top](#image-dataset-categories)</a>
+
+
 
 ---
 
@@ -95,14 +98,18 @@ This category includes all thin blood smear image datasets.
 ---
 
 
+
 ## **Usage:**
 
 To use any of the datasets in this repository, simply download the dataset from the corresponding link.
+
+
 
 ---
 
 ## **Contributions** 
 If you are aware of any other malaria blood image datasets that are not included in this repository, please feel free to contribute to them by opening a pull request.
+
 
 
 ******
