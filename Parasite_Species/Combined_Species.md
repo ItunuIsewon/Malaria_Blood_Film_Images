@@ -17,7 +17,7 @@ The following datasets have more than one Plasmodium species as their species of
 
 + [Devi et al., 2018 Image Dataset ](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Devi_et_al.%2C_2018_Dataset.md) - This is a thin, Leishman-stained blood smear image with a total of 400 images. _P. falciparum_ and _P. vivax_ are the species of interest.
 
-+ [Rosado et al., 2017 Image Dataset ]()
++ [(mThinMPs) Image Database](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/mThinMPs_Database.md) - The database has 566 images. It contains _Plasmodium falciparum_, _ovale_ and _malariae_.
 
 + [Rosnelly et al., 2017 Image Dataset ](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Rosnelly_et_al.%2C_2017_Dataset.md) - It is a thin, Giemsa-stained image dataset consisting of 600 images. _Plasmodium falciparum_, _vivax_ and _malariae_ life stages are in the images.
 
