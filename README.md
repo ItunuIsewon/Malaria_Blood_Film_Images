@@ -1,3 +1,19 @@
+---
+title: Preprocessing
+keywords: Preprocessing
+tags: [preprocessing]
+last_updated: Feb 25, 2021
+
+toc: false
+sidebar: preprocessing_sidebar
+permalink: preprocessing_example1.html
+folder: categories/preprocessing
+author_profile: true
+authors:
+ - Dassen Sathan
+---
+
+
 # **Malaria Blood Smear Images**
 
 ## **Repository Description**
