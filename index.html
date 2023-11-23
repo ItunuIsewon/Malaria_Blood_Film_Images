@@ -251,6 +251,12 @@
   ];
 
 
+	
+// Color scale for node categories
+var categoryColorScale = d3.scale.category10();
+
+// Color scale for links
+var linkColorScale = d3.scale.category20();
 
 // ************** Generate the tree diagram	 *****************
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
@@ -308,7 +314,7 @@ function update(source) {
 
   nodeEnter.append("circle")
 	  .attr("r", 1e-6)
-	  .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; })
+	  .style("fill", function(d) { return categoryColorScale(d.name); }) // Color nodes based on their category
 	  .on("click", click)
 	;
 
@@ -331,7 +337,7 @@ function update(source) {
 
   nodeUpdate.select("circle")
 	  .attr("r", 10)
-	  .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+	  .style("fill", function(d) { return categoryColorScale(d.name); });
 
   nodeUpdate.select("text")
 	  .style("fill-opacity", 1);
@@ -355,6 +361,10 @@ function update(source) {
   // Enter any new links at the parent's previous position.
   link.enter().insert("path", "g")
 	  .attr("class", "link")
+	  .style("stroke", function(d) {
+		  // Assign colors to links based on the source node's category
+		  return linkColorScale(d.source.name);
+	  })
 	  .attr("d", function(d) {
 		var o = {x: source.x0, y: source.y0};
 		return diagonal({source: o, target: o});
