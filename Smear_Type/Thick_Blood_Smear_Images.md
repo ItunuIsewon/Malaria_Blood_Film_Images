@@ -13,4 +13,4 @@ The thick blood smear is thicker than the thin blood smear, and it is prepared b
 + [Fong Amaris et al., 2022 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_Blood_Smear_Images/Fong_Amaris_et_al.%2C_2022_Dataset.md)
 + [Koirala et al., 2022 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_Blood_Smear_Images/Koirala_et_al.%2C_2022_Dataset.md)
 + [National Institute of Health _Plasmodium vivax_ Thick Blood Smear Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_Blood_Smear_Images/NIH_Pv_Dataset.md)
-
++ [Manescu et al., 2020 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Manescu_et_al.%2C_2020_Dataset.md)
