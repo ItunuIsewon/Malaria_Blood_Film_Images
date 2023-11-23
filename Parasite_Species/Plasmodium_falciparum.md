@@ -20,3 +20,4 @@ It is the most prevalent species of Plasmodium parasite. This parasite is partic
 + [Mushabe et al., 2013 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Mushabe_et_al.%2C_2013_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset .
 + [National Reference Center Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/NRC_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset with 1250 images.
 + [Davidson et. al., 2021 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Davidson_et_al.%2C_2021_Dataset.md) - It is a thin, Giemsa-stained blood smear image dataset with 108 images.
++ [Loh et al., 2020 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Loh_et_al.%2C_2020_Dataset.md) - It is a Giemsa-stained blood smear image dataset
