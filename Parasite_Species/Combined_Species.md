@@ -1,4 +1,4 @@
-# Combined Species
+# Combined Species Blood Smear Images
 
 
 
