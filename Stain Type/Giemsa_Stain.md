@@ -8,7 +8,7 @@ It is a mixture of eosin and methylene blue, and it stains the cytoplasm of mala
 + [Yu et al., 2023 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Yu_et_al.%2C_2023_Dataset.md)
 + [de Souza Oliveira et al., 2022 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/de_Souza_Oliveira_et_al.%2C_2022_Dataset.md)
 + [Arshad et al., 2022 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Arshad_et_al.%2C_2022_Dataset.md)
-+ [Manescu et al., 2020 Image Dataset ]
++ [Manescu et al., 2020 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Manescu_et_al.%2C_2020_Dataset.md)
 + [MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis ](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/MP-IDB.md)
 + [National Institute of Health Plasmodium falciparum Dataset ](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/NIH_Pf_Dataset.md)
 + [National Institute of Health Plasmodium vivax Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/NIH_Pv_Dataset.md)
