@@ -7,5 +7,5 @@ Field stain is not as sensitive as Giemsa stain, but it is still effective for d
 
 ---
 ## Datasets
-+ [Koirala et al., 2022 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Koirala_et_al.%2C_2022_Dataset.md) - This dataset contains 133 patient’s blood samples and _Pf_ is the species of interest
-+ [Nakasi et al., 2021 Image Dataset]() - This contains 903 images with a resolution of resolution of 3264 × 2448 pixels.
++ [Koirala et al., 2022 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Koirala_et_al.%2C_2022_Dataset.md) - This dataset contains 133 patient’s blood samples and _Pf_ is the species of interest.
++ [Nakasi et al., 2021 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Nakasi_et_al.%2C_2021_Dataset.md) - This contains 903 images with a resolution of 3264 × 2448 pixels.
