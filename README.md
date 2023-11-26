@@ -383,7 +383,11 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 </script>
 
 
-+ [Smear Type](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Smear_Type/README.md)
+
+
+
+
++ [Smear Type](Smear_Type/intro.md)
 + [Plasmodium falciparum](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Parasite_Species/Plasmodium_falciparum.md)
 
 
