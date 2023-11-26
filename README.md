@@ -1,16 +1,3 @@
----
-title: Alerts
-tags: [formatting]
-keywords: notes, tips, cautions, warnings, admonitions
-last_updated: July 3, 2016
-summary: "You can insert notes, tips, warnings, and important a
-lerts in your content. These notes are stored as shortcodes mad
-e available through the linksrefs.hmtl include."
-sidebar: mydoc_sidebar
-permalink: mydoc_alerts
----
-
-
 # **Malaria Blood Smear Images**
 
 ## **Repository Description**
