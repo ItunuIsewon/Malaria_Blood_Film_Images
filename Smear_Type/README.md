@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Type of Smear
 
 Thick and thin blood smears are prepared for the diagnosis of malaria using microscopy. They are prepared from blood samples collected from the patient. The smears are best prepared from capillary blood obtained by a finger prick.
