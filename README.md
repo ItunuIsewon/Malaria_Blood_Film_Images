@@ -383,6 +383,10 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 </script>
 
 
+[Smear Type]({{ site.baseurl }}{% Smear_Type/intro.md %})
+[Link title]({% post_url 2019-03-06-post-title %})
+[Link title]({{ site.baseurl }}{% Smear_Type/Thick_&_Thin_Images.md %})
+
 
 
 + [Smear Type](Smear_Type/intro.md)
