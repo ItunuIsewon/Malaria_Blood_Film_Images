@@ -385,7 +385,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 
 
-+[Test Page](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Smear_Type/fix.html)
++[Test Page](Smear_Type/fix.html)
 
 
 
