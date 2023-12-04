@@ -1,11 +1,10 @@
 # _Plasmodium vivax_ Blood Smear Images
-
-
 These datasets contain blood smear images with _Plasmodium vivax_ as the species of interest.
 
 _Plasmodium vivax_ is one of the species that causes malaria and is the most common and widely distributed form of malaria outside of Africa.
 
 It is responsible for malaria, primarily in Asia and Latin America. It causes significant morbidity and mortality, particularly in young children and pregnant women.
+
 
 ---
 ## Datasets
