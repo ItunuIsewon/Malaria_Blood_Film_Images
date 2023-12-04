@@ -1,5 +1,4 @@
 # Controlled Access Datasets
-
 This is a collection of controlled-access datasets as reported by the researchers. This collection contains both datasets with both thick and thin image datasets and those with thick and thin image datasets only.
 
 
