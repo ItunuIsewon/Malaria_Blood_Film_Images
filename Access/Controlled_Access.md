@@ -54,7 +54,7 @@ This is a collection of controlled-access datasets as reported by the researcher
 
 + [Cruz et al., 2016 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Cruz_et_al.,_2016_Dataset.html) - This is a thin, Giemsa-stained dataset with a total of 267 images. _P. falciparum_, _P. vivax_ and _P. malariae_ are present in the images.
 
-+ [Das et al., 2015 Image Dataset ] (https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Das_et_al.,_2015_Dataset.html) - This is a thin Leishman-stained dataset with 750 images containing _P. falciparum_ and _P. vivax_.
++ [Das et al., 2015 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Das_et_al.,_2015_Dataset.html) - This is a thin Leishman-stained dataset with 750 images containing _P. falciparum_ and _P. vivax_.
 
 + [Fu et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Fu_et_al.,_2023_Dataset.html) - It has a total of 42,787 blood slice images that contains _Plasmodium falciparum_, _vivax_, _ovale_ and _malariae_.
 
