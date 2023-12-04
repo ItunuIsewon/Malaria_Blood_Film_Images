@@ -60,6 +60,7 @@
 
 	    
 <style>
+
 .node circle {
   fill: #fff;
   stroke: steelblue;
@@ -77,11 +78,13 @@
 }
 
 </style>
-	    
+
 <div id="graph"></div>
-<!-- load the d3.js library -->	
-&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
-&lt;script>
+
+<!-- load the d3.js library -->    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+
+<script>
 
   var treeData = [
     {
@@ -94,7 +97,7 @@
           "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
           "parent": "Blood Smear Images",
           "children": [
-	    {
+        {
               "name": "Open Access",
               "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/Thick&Thin-OA.html",
               "parent": "Access",
@@ -106,16 +109,16 @@
               "parent": "Access",
               "children": null
             },
-        
+
           ]
         },
 
-	 {
+     {
           "name": "Smear Type",
           "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Aris_et_al.,_2021_Dataset.html",
           "parent": "Blood Smear Images",
           "children": [
-  	     {
+           {
               "name": "Thick & Thin Blood Smear",
               "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick&Thin-CA.html",
               "parent": "Smear Type",
@@ -135,12 +138,12 @@
             }
           ]
  },
-	   {
+       {
           "name": "Stain Type",
           "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
           "parent": "Blood Smear Images",
           "children": [
-  	     {
+           {
               "name": "Giemsa Stain",
               "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick&Thin-CA.html",
               "parent": "Stain Type",
@@ -152,13 +155,13 @@
               "parent": "Stain Type",
               "children": null
             },
-	    {
+        {
               "name": "Leishman Stain",
               "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
               "parent": "Stain Type",
               "children": null
             },
-	    {
+        {
               "name": "May-Grünwald Giemsa Stain",
               "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
               "parent": "Stain Type",
@@ -173,12 +176,12 @@
           ]
        },
 
-	 {
+     {
           "name": "Species",
           "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
           "parent": "Blood Smear Images",
           "children": [
-  	     {
+           {
               "name": "Plasmodium falciparum",
               "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick&Thin-CA.html",
               "parent": "Species",
@@ -190,7 +193,7 @@
               "parent": "Species",
               "children": null
             },
-	    {
+        {
               "name": "Plasmodium malariae",
               "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
               "parent": "Species",
@@ -202,22 +205,22 @@
               "parent": "Species",
               "children": null
             },
-	    {
+        {
               "name": "Combined Species",
               "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thin-CA.html",
               "parent": "Species",
               "children": null
             }
           ]
-	 },
+     },
 
-	      
+
         {
           "name": "Demography",
           "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
           "parent": "Blood Smear Images",
           "children": [
-  	     {
+           {
               "name": "Africa",
               "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick&Thin-CA.html",
               "parent": "Demography",
@@ -248,14 +251,13 @@
   ];
 
 
-	
   // Color scale for node categories
   var categoryColorScale = d3.scale.category10();
 
   // Color scale for links
   var linkColorScale = d3.scale.category20();
 
-  // ************** Generate the tree diagram	 *****************
+  // ************** Generate the tree diagram     *****************
   var margin = { top: 20, right: 120, bottom: 20, left: 120 },
     width = 960 - margin.right - margin.left,
     height = 500 - margin.top - margin.bottom;
