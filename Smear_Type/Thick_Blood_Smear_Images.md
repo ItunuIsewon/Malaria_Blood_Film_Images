@@ -1,8 +1,9 @@
 # Thick Blood Smear Images
 These datasets contain thick blood smear images.
+
 Thick blood smears are prepared for the diagnosis of malaria using microscopy. They are prepared from blood samples collected from the patient. The smears are best prepared from capillary blood obtained by a finger prick.
 
-The thick blood smear is thicker than the thin blood smear, and it is prepared by swirling the drop of blood, it allows more blood volume to be examined. It is used to detect the parasite, and it has a higher sensitivity than the thin blood smear. The red blood cells are ruptured, and only the white blood cells, platelets, and parasites are seen. It can also be used to estimate parasitaemia (Poostchi et al., 2018; Rosado et al., 2017).
+The thick blood smear is thicker than the thin blood smear, and it is prepared by swirling the drop of blood, which allows more blood volume to be examined. It is used to detect the parasite, and it has a higher sensitivity than the thin blood smear. The red blood cells are ruptured, and only the white blood cells, platelets, and parasites are seen. It can also be used to estimate parasitaemia (Poostchi et al., 2018; Rosado et al., 2017).
 
 
 
