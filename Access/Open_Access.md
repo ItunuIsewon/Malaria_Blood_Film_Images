@@ -1,26 +1,33 @@
 # Open Access Datasets
-This is a collection of open-access datasets, as reported by the researchers. These datasets are freely available for anyone to use. 
+This is a collection of open-access datasets, as reported by the researchers. These datasets are freely available for anyone to use.
 
+## Datasets
++ [Davidson et. al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Davidson_et_al.,_2021_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset with 108 images.
 
++ [National Institute of Health Plasmodium falciparum Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/NIH_Pf_Dataset.html) - It is a thin and thick, Giemsa-stained blood smear image dataset.
 
-## Thick and thin Blood Smear Image Datasets
-+ [Davidson et al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Aris_et_al.,_2021_Dataset.html)
-+ [National Institute of Health _Plasmodium falciparum_ Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_%26_Thin_Images/NIH_Pf_Dataset.md)
-+ [Yu et al., 2023 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_%26_Thin_Images/Yu_et_al.%2C_2023_Dataset.md)
++ [Fong Amaris et al., 2022 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Fong_Amaris_et_al.,_2022_Dataset.html) - It is a thick, Modified-Romanowsky stained dataset that contains 420 images.
 
++ [Yu et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Yu_et_al.,_2023_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset.
 
++ [Koirala et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Koirala_et_al.,_2022_Dataset.html) - It is a thick, Field-stained blood smear image dataset
+  
++ [Nakasi et al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Nakasi_et_al.,_2021_Dataset.html) - It is a thick, Field-stained blood smear image dataset.
 
-## Thick Blood Smear Image Datasets
-+ [Fong Amaris et al., 2022 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_Blood_Smear_Images/Fong_Amaris_et_al.%2C_2022_Dataset.md)
-+ [Koirala et al., 2022 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_Blood_Smear_Images/Koirala_et_al.%2C_2022_Dataset.md)
-+ [National Institute of Health _Plasmodium vivax_ Thick Blood Smear Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_Blood_Smear_Images/NIH_Pv_Dataset.md)
++ [National Institute of Health Plasmodium vivax Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/NIH_Pv_Dataset.html) - It is a thick, Giemsa-stained, blood smear image dataset.
 
++ [Manescu et al., 2020 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Manescu_et_al.,_2020_Dataset.html) - It is a thick, Giemsa-stained blood smear image dataset.
 
++ [Broad Bioimage Benchmark Collection](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/BBBC.html) - It is a thin, Giemsa-stained blood smear image dataset containing _Plasmodium vivax_.
 
-## Thin Blood Smear Image Datasets
-+ [The Broad Bioimage Benchmark Collection](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thin_Blood_Smear_Images/BBBC.md)
-+ [Delgado-Ortet et al., 2020 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thin_Blood_Smear_Images/Delgado-Ortet_et_al.%2C_2020_Dataset.md)
-+ [Diwan et al., 2014 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thin_Blood_Smear_Images/Diwan_et_al.%2C_2014_Dataset.md)
-+ [MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thin_Blood_Smear_Images/MP-IDB.md)
-+ [SmartMalariaNet](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thin_Blood_Smear_Images/SmartMalariaNet.md)
-+ [Taiwan Images for Malaria Eradication (TIME) Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thin_Blood_Smear_Images/TIME_Dataset.md)
++ [Delgado-Ortet et al., 2020 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Delgado-Ortet_et_al.,_2020_Dataset.html) - It is a thin blood smear, MGG-stained image dataset.
+
++ [Diwan et al., 2014 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Diwan_et_al.,_2014_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset.
+
++ [MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/MP-IDB.html) - It is a thin blood smear, Giemsa-stained image dataset. It contains _Plasmodium falciparum_, _Plasmodium ovale_, _Plasmodium vivax_ and _Plasmodium malariae_.
+
++ [SmartMalariaNet Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/SmartMalariaNet.html) - It is a thin, Giemsa-stained blood smear image dataset.
+
++ [Taiwan Images for Malaria Eradication (TIME)](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/TIME_Dataset.html) - It is a thin, Giemsa-stained malaria image dataset.
+
++ [Yu et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Yu_et_al.,_2023_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset.
