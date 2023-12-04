@@ -1,8 +1,8 @@
 # **Nakasi et al., 2021 Image Dataset**  
 **Article Title:** Mobile-Aware Deep Learning Algorithms for Malaria Parasites and White Blood Cells Localization in Thick Blood Smears
 
-**_Article Link_** [ref](https://www.mdpi.com/1999-4893/14/1/17)
 
+**_Article Link_** [ref](https://www.mdpi.com/1999-4893/14/1/17)
 
 
 ## **Description**
