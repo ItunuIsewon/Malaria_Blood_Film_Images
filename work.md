@@ -383,6 +383,41 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 
 ******
+## Image Dataset Categories
+### Access
+* [Open Access](Access/Open_Access.md)
+* [Controlled Access](Access/Controlled_Access.md)
+
+
+### Smear Type
+* [Thick & Thin Blood Smear](Smear_Type/Thick_&_Thin_Images.md)
+* [Thick Blood Smear](Smear_Type/Thick_Blood_Smear_Images.md)
+* [Thin Blood Smear](Smear_Type/Thin_Blood_Smear_Images.md)
+
+
+### Stain Type
+* [Field Stain](Stain Type/Field_Stain.md)
+* [Giemsa Stain](Stain Type/Giemsa_Stain.md)
+* [Leishman Stain](Stain Type/Leishman_Stain.md)
+* [May Grunwald-Giemsa Stain](Stain Type/May_Grunwald-Giemsa_Stain.md)
+* [Modified Romanowsky Stain](Stain Type/Modified_Romanowsky.md)
+
+  
+### Parasite's Species
+* [Combined Species](Parasite_Species/Combined_Species.md)
+* [_Plasmodium falciparum_](Parasite_Species/Plasmodium_falciparum.md)
+* [_Plasmodium ovale_](Parasite_Species/Plasmodium_ovale.md)
+* [_Plasmodium vivax_](Parasite_Species/Plasmodium_vivax.md)
+
+
+### Demography
+* [Africa]()
+* [Asia]()
+* [Europe]()
+* [South America]()
+
+
+******
 ## All Datasets
 *   [Aris et al., 2021 Image Dataset](All_Datasets/Aris_et_al.,_2021_Dataset.md)
 *   [Davidson et al., 2021 Image Dataset](All_Datasets/Davidson_et_al.,_2021_Dataset.md)
