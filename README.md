@@ -384,17 +384,27 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 
 ******
-## Image Dataset Categories
+## Contents
++ [Access](#access)
++ [Smear Type](#smear-type)
++ [Stain Type](#stain-type)
++ [Plasmodium Species](#plasmodium-species)
++ [Demography](#demography)
++ [All Datasets](#all-datasets)
+
+
 ### Access
 * [Open Access](Access/Open_Access.md)
 * [Controlled Access](Access/Controlled_Access.md)
 
+<a href="#top">[Back to Top](#contents)</a>
 
 ### Smear Type
 * [Thick & Thin Blood Smear](Smear_Type/Thick_&_Thin_Images.md)
 * [Thick Blood Smear](Smear_Type/Thick_Blood_Smear_Images.md)
 * [Thin Blood Smear](Smear_Type/Thin_Blood_Smear_Images.md)
 
+<a href="#top">[Back to Top](#contents)</a>
 
 ### Stain Type
 * [Field Stain](Stain_Type/Field_Stain.md)
@@ -403,13 +413,15 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 * [May Grunwald-Giemsa Stain](Stain_Type/May_Grunwald-Giemsa_Stain.md)
 * [Modified Romanowsky Stain](Stain_Type/Modified_Romanowsky.md)
 
+<a href="#top">[Back to Top](#contents)</a>
   
-### Parasite's Species
+### Plasmodium Species
 * [Combined Species](Parasite_Species/Combined_Species.md)
 * [_Plasmodium falciparum_](Parasite_Species/Plasmodium_falciparum.md)
 * [_Plasmodium ovale_](Parasite_Species/Plasmodium_ovale.md)
 * [_Plasmodium vivax_](Parasite_Species/Plasmodium_vivax.md)
 
+<a href="#top">[Back to Top](#contents)</a>
 
 ### Demography
 * [Africa]()
@@ -417,8 +429,9 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 * [Europe]()
 * [South America]()
 
+<a href="#top">[Back to Top](#contents)</a>
 
-******
+
 ## All Datasets
 *   [Aris et al., 2021 Image Dataset](All_Datasets/Aris_et_al.,_2021_Dataset.md)
 *   [Davidson et al., 2021 Image Dataset](All_Datasets/Davidson_et_al.,_2021_Dataset.md)
@@ -462,10 +475,11 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 *   [The Broad Bioimage Benchmark Collection](All_Datasets/BBBC.md)
 *   [Manescu et al., 2020 Image Dataset](All_Datasets/Manescu_et_al.,_2020_Dataset.md)
 *   [Nakasi et al., 2021 Image Dataset](All_Datasets/Nakasi_et_al.,_2021_Dataset.md)
+  
+<a href="#top">[Back to Top](#contents)</a>
 
 
 ## **Usage**
-
 To use any of the datasets in this repository, simply download the dataset from the corresponding link.
 
 
