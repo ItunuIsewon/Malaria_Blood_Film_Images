@@ -396,11 +396,11 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 
 ### Stain Type
-* [Field Stain](Stain Type/Field_Stain.md)
-* [Giemsa Stain](Stain Type/Giemsa_Stain.md)
-* [Leishman Stain](Stain Type/Leishman_Stain.md)
-* [May Grunwald-Giemsa Stain](Stain Type/May_Grunwald-Giemsa_Stain.md)
-* [Modified Romanowsky Stain](Stain Type/Modified_Romanowsky.md)
+* [Field Stain](Stain_Type/Field_Stain.md)
+* [Giemsa Stain](Stain_Type/Giemsa_Stain.md)
+* [Leishman Stain](Stain_Type/Leishman_Stain.md)
+* [May Grunwald-Giemsa Stain](Stain_Type/May_Grunwald-Giemsa_Stain.md)
+* [Modified Romanowsky Stain](Stain_Type/Modified_Romanowsky.md)
 
   
 ### Parasite's Species
