@@ -7,8 +7,6 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 
 <style>
-
-
 .node circle {
   fill: #fff;
   stroke: steelblue;
@@ -384,16 +382,53 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 </script>
 
 
+******
+## All Datasets
+*   [Aris et al., 2021 Image Dataset](All_Datasets/Aris_et_al.,_2021_Dataset.md)
+*   [Davidson et al., 2021 Image Dataset](All_Datasets/Davidson_et_al.,_2021_Dataset.md)
+*   [Khan et al., 2017 Image Dataset](All_Datasets/Khan_et_al.,_2017_Dataset.md)
+*   [National Institute of Health _Plasmodium falciparum_ Image Dataset](All_Datasets/NIH_Pf_Dataset.md)
+*   [Yoon et al., 2021 Image Dataset](All_Datasets/Yoon_et_al.,_2021_Dataset.md)
+*   [Yu et al., 2023 Image Dataset](All_Datasets/Yu_et_al.,_2023_Dataset.md)
+*   [Dave, 2018 Image Dataset](All_Datasets/Dave_2018_Dataset.md)
+*   [Fong Amaris et al., 2022 Image Dataset](All_Datasets/Fong_Amaris_et_al.,_2022_Dataset.md)
+*   [Koirala et al., 2022 Image Dataset](All_Datasets/Koirala_et_al.,_2022_Dataset.md)
+*   [National Institute of Health _Plasmodium vivax_ Thick Blood Smear Image Dataset](All_Datasets/NIH_Pv_Dataset.md)
+*   [Salamah et al., 2019 Image Dataset](All_Datasets/Salamah_et_al.,_2019_Dataset.md)
+*   [de Souza Oliveira et al., 2022 Image Dataset](All_Datasets/de_Souza_Oliveira_et_al.,_2022_Dataset.md)
+*   [Abdul-Nasir et al., 2015 Image Dataset](All_Datasets/Abdul-Nasir_et_al.,_2015_Dataset.md)
+*   [Aladago et al., 2019 Image Dataset](All_Datasets/Aladago_et_al.,_2019.md)
+*   [Arshad et al., 2022 Image Dataset](All_Datasets/Arshad_et_al.,_2022_Dataset.md)
+*   [Cruz et al., 2016 Image Dataset](All_Datasets/Cruz_et_al.,_2016_Dataset.md)
+*   [Dantas Oliveira et al., 2018 Image Dataset](All_Datasets/Dantas_Oliveira_et_al.,_2018_Dataset.md)
+*   [Das et al., 2015 Image Dataset](All_Datasets/Das_et_al.,_2015_Dataset.md)
+*   [Delas Peñas et al., 2018 Image Dataset](All_Datasets/Delas_Peñas_et_al.,_2018_Dataset.md)
+*   [Delgado-Ortet et al., 2020 Image Dataset](All_Datasets/Delgado-Ortet_et_al.,_2020_Dataset.md)
+*   [Devi et al., 2018 Image Dataset](All_Datasets/Devi_et_al.,_2018_Dataset.md)
+*   [Diwan et al., 2014 Image Dataset](All_Datasets/Diwan_et_al.,_2014_Dataset.md)
+*   [Fu et al., 2023 Image Dataset](All_Datasets/Fu_et_al.,_2023_Dataset.md)
+*   [Hung et al., 2017 Image Dataset](All_Datasets/Hung_et_al.,_2017_Dataset.md)
+*   [Kanafiah et al., 2022 Image Dataset](All_Datasets/Kanafiah_et_al.,_2022_Dataset.md)
+*   [Loh et al., 2020 Image Dataset](All_Datasets/Loh_et_al.,_2020_Dataset.md)
+*   [MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis](All_Datasets/MP-IDB.md)
+*   [Maity et al., 2020 Image Dataset](All_Datasets/Maity_et_al.,_2020_Dataset.md)
+*   [Mobile Thin Smear Malaria Parasites (mThinMPs) Image Database](All_Datasets/mThinMPs_Database.md)
+*   [Molina et al., 2020 Image Dataset](All_Datasets/Molina_et_al.,_2020_Dataset.md)
+*   [Mushabe et al., 2013 Image Dataset](All_Datasets/Mushabe_et_al.,_2013_Dataset.md)
+*   [National Reference Center Dataset](All_Datasets/NRC_Dataset.md)
+*   [Nugroho et al., 2014 Image Dataset](All_Datasets/Nugroho_et_al.,_2014_Dataset.md)
+*   [Preedanan et al., 2016](All_Datasets/Preedanan_et_al.,_2016_Dataset.md)
+*   [Rosnelly et al., 2017 Image Dataset](All_Datasets/Rosnelly_et_al.,_2017_Dataset.md)
+*   [Sengar et al., 2022 Image Dataset](All_Datasets/Sengar_et_al.,_2022_Dataset.md)
+*   [SmartMalariaNet](All_Datasets/SmartMalariaNet.md)
+*   [Sunarko et al., 2017 Image Dataset](All_Datasets/Sunarko_et_al.,_2017_Dataset.md)
+*   [Taiwan Images for Malaria Eradication (TIME) Image Dataset](All_Datasets/TIME_Dataset.md)
+*   [The Broad Bioimage Benchmark Collection](All_Datasets/BBBC.md)
+*   [Manescu et al., 2020 Image Dataset](All_Datasets/Manescu_et_al.,_2020_Dataset.md)
+*   [Nakasi et al., 2021 Image Dataset](All_Datasets/Nakasi_et_al.,_2021_Dataset.md)
 
-+[Test Page](Smear_Type/fix.html)
 
-
-
-+ [Smear Type](Smear_Type/intro.md)
-+ [Plasmodium falciparum](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Parasite_Species/Plasmodium_falciparum.md)
-
-
-## **Usage:**
+## **Usage**
 
 To use any of the datasets in this repository, simply download the dataset from the corresponding link.
 
