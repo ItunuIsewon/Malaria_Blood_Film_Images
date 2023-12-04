@@ -2,6 +2,7 @@
 This is a collection of open-access datasets, as reported by the researchers. These datasets are freely available for anyone to use. 
 
 
+
 ## Thick and thin Blood Smear Image Datasets
 + [Davidson et al., 2021 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_%26_Thin_Images/Davidson_et_al.%2C_2021_Dataset.md)
 + [National Institute of Health _Plasmodium falciparum_ Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_%26_Thin_Images/NIH_Pf_Dataset.md)
