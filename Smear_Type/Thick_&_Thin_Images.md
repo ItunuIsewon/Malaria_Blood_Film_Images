@@ -8,6 +8,7 @@ The thin smear is used to identify the malaria parasite species; the life cycle 
 The thick blood smear is thicker, and it is prepared by swirling the drop of blood, it allows more blood volume to be examined. It is used to detect the parasite, and it has a higher sensitivity than the thin blood smear. The red blood cells are ruptured, and only the white blood cells, platelets, and parasites are seen. It can also be used to estimate parasitaemia (Poostchi et al., 2018; Rosado et al., 2017).
 
 
+
 ## Datasets
 + [Davidson et al., 2021 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_%26_Thin_Images/Davidson_et_al.%2C_2021_Dataset.md)
 + [National Institute of Health _Plasmodium falciparum_ Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Thick_%26_Thin_Images/NIH_Pf_Dataset.md)
