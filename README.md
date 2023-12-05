@@ -399,7 +399,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 9. [Contributions](#contributions)
 10. [License](#license)
 
-
+---
 
 ### Access
 * [Open Access](Access/Open_Access.md)
@@ -407,12 +407,16 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 <a href="#top">[Back to Top](#contents)</a>
 
+---
+
 ### Smear Type
 * [Thick & Thin Blood Smear](Smear_Type/Thick_&_Thin_Images.md)
 * [Thick Blood Smear](Smear_Type/Thick_Blood_Smear_Images.md)
 * [Thin Blood Smear](Smear_Type/Thin_Blood_Smear_Images.md)
 
 <a href="#top">[Back to Top](#contents)</a>
+
+---
 
 ### Stain Type
 * [Field Stain](Stain_Type/Field_Stain.md)
@@ -422,7 +426,9 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 * [Modified Romanowsky Stain](Stain_Type/Modified_Romanowsky.md)
 
 <a href="#top">[Back to Top](#contents)</a>
-  
+
+---
+
 ### Plasmodium Species
 * [Combined Species](Parasite_Species/Combined_Species.md)
 * [_Plasmodium falciparum_](Parasite_Species/Plasmodium_falciparum.md)
@@ -430,6 +436,8 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 * [_Plasmodium vivax_](Parasite_Species/Plasmodium_vivax.md)
 
 <a href="#top">[Back to Top](#contents)</a>
+
+---
 
 ### Demography
 * [Africa](Demography/Africa.md)
@@ -439,7 +447,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 <a href="#top">[Back to Top](#contents)</a>
 
-
+---
 ## All Datasets
 *   [Aris et al., 2021 Image Dataset](All_Datasets/Aris_et_al.,_2021_Dataset.md)
 *   [Davidson et al., 2021 Image Dataset](All_Datasets/Davidson_et_al.,_2021_Dataset.md)
@@ -486,15 +494,21 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
   
 <a href="#top">[Back to Top](#contents)</a>
 
+---
+
 ## Summary
 [Summary Table](All_Datasets/Summary_Table.md)
 
 <a href="#top">[Back to Top](#contents)</a>
 
+---
+
 ## **Usage**
 To use any of the datasets in this repository, simply download the dataset from the corresponding link.
 
 <a href="#top">[Back to Top](#contents)</a>
+
+---
 
 ## **Contributions** 
 If you are aware of any other malaria blood image datasets that are not included in this repository, please feel free to contribute to them by opening a pull request.
