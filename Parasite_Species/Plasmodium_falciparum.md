@@ -5,15 +5,13 @@ It is the most prevalent species of Plasmodium parasite. This parasite is partic
 
 
 ## Datasets
-+ [Koirala et al., 2022 Image Dataset ](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Koirala_et_al.%2C_2022_Dataset.md) - This is a thick blood smear, Field-stained and has a total of 2703 images.
++ [Koirala et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Koirala_et_al.,_2022_Dataset.html) - This is a thick blood smear, field-stained, and has a total of 2703 images.
   
-+ [Manescu et al., 2020 Image Dataset ](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Manescu_et_al.%2C_2020_Dataset.md) - It is a thick blood smear, Giemsa-stained image dataset.
++ [Manescu et al., 2020 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Manescu_et_al.,_2020_Dataset.html) - It is a thick blood smear and Giemsa-stained image dataset.
   
-+ [Delgado-Ortet et al., 2020 Image Dataset ](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Delgado-Ortet_et_al.%2C_2020_Dataset.md) - It is a thin blood smear, MGG-stained image dataset.
++ [Delgado-Ortet et al., 2020 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Delgado-Ortet_et_al.,_2020_Dataset.html) - It is a thin blood smear, MGG-stained image dataset.
   
-+ [National Institute of Health Plasmodium falciparum Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/NIH_Pf_Dataset.md) - It is a thin and thick, Giemsa-stained blood smear image dataset.
-  
-+ [Taiwan Images for Malaria Eradication (TIME)](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/TIME_Dataset.md) - It is a thin, Giemsa-stained malaria image dataset.
++ [National Institute of Health Plasmodium falciparum Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/NIH_Pf_Dataset.html) - It is a thin and thick, Giemsa-stained blood smear image dataset.
   
 + [Aladago et al., 2019 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Aladago_et_al.,_2019.html) - This is a thin, Giemsa-stained image dataset that consists of 403 images.
   
@@ -30,3 +28,5 @@ It is the most prevalent species of Plasmodium parasite. This parasite is partic
 + [Davidson et. al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Davidson_et_al.,_2021_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset with 108 images.
   
 + [Loh et al., 2020 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Loh_et_al.,_2020_Dataset.html) - It is a Giemsa-stained blood smear image dataset.
+
++ [Taiwan Images for Malaria Eradication (TIME)](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/TIME_Dataset.md) - It is a thin, Giemsa-stained malaria image dataset.
