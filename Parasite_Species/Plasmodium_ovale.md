@@ -8,4 +8,4 @@ It is one of the four species of Plasmodium parasites that infect humans. Malari
 
 ---
 ## Datasets
-+ [Nugroho et al., 2014 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/All_Datasets/Nugroho_et_al.%2C_2014_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset. It contains 177 microphotographs 
++ [Nugroho et al., 2014 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Nugroho_et_al.,_2014_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset. It contains 177 microphotographs 
