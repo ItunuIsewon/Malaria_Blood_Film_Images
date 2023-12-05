@@ -385,13 +385,18 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 ******
 ## Contents
-+ [Access](#access)
-+ [Smear Type](#smear-type)
-+ [Stain Type](#stain-type)
-+ [Plasmodium Species](#plasmodium-species)
-+ [Demography](#demography)
-+ [All Datasets](#all-datasets)
+1. [Access](#access)
+2. [Smear Type](#smear-type)
+3. [Stain Type](#stain-type)
+4. [Plasmodium Species](#plasmodium-species)
+5. [Demography](#demography)
+6. [All Datasets](#all-datasets)
+7. [Summary](#summary)
+8. [Usage](#usage)
+9. [Contributions](#contributions)
+10. [License](#license)
 
+❗🛑 **You can use the interactive mindmap at the top of the page or the list of contents to navigate through this repository for different categories of blood smear image datasets for automated malaria diagnosis**.
 
 ### Access
 * [Open Access](Access/Open_Access.md)
@@ -424,10 +429,10 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 <a href="#top">[Back to Top](#contents)</a>
 
 ### Demography
-* [Africa]()
-* [Asia]()
-* [Europe]()
-* [South America]()
+* [Africa](Demography/Africa.md)
+* [Asia](Demography/Asia.md)
+* [Europe](Demography/Europe.md)
+* [South America](Demography/South_America.md)
 
 <a href="#top">[Back to Top](#contents)</a>
 
@@ -478,16 +483,23 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
   
 <a href="#top">[Back to Top](#contents)</a>
 
+## Summary
 [Summary Table](All_Datasets/Summary_Table.md)
+
+<a href="#top">[Back to Top](#contents)</a>
 
 ## **Usage**
 To use any of the datasets in this repository, simply download the dataset from the corresponding link.
 
+<a href="#top">[Back to Top](#contents)</a>
 
 ## **Contributions** 
 If you are aware of any other malaria blood image datasets that are not included in this repository, please feel free to contribute to them by opening a pull request.
 
+<a href="#top">[Back to Top](#contents)</a>
 
 ******
 ## **License**
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<a href="#top">[Back to Top](#contents)</a>
