@@ -478,6 +478,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
   
 <a href="#top">[Back to Top](#contents)</a>
 
+[Summary Table](All_Datasets/Summary_Table.md)
 
 ## **Usage**
 To use any of the datasets in this repository, simply download the dataset from the corresponding link.
@@ -485,7 +486,6 @@ To use any of the datasets in this repository, simply download the dataset from 
 
 ## **Contributions** 
 If you are aware of any other malaria blood image datasets that are not included in this repository, please feel free to contribute to them by opening a pull request.
-
 
 
 ******
