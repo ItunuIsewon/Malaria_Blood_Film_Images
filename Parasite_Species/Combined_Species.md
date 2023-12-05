@@ -6,7 +6,7 @@ The following datasets have more than one Plasmodium species as their species of
 
 + [MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/MP-IDB.html)  - It is a thin blood smear, Giemsa-stained image dataset. It contains _Plasmodium falciparum_, _Plasmodium ovale_, _Plasmodium vivax_ and _Plasmodium malariae_.
 
-+ [Kanafiah et al., 2022 Image dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Kanafiah_et_al.,_2022_Dataset.html) - It is a thin blood smear image dataset that contains 150 images. _Plasmodium knowlesi_, _vivax _and _falciparum_ are the species of interest.
++ [Kanafiah et al., 2022 Image dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Kanafiah_et_al.,_2022_Dataset.html) - It is a thin blood smear image dataset that contains 150 images. _Plasmodium knowlesi_, _vivax_, and _falciparum_ are the species of interest.
 
 + [Aris et al., 2021 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Aris_et_al.,_2021_Dataset.html) - This is a thick and thin image dataset. _Plasmodium falciparum_ and _vivax_ are the species of interest. 
 
