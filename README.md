@@ -35,23 +35,22 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
   var treeData = [
     {
       "name": "Blood Smear Images",
-      "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/",
+      "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Summary_Table.html",
       "parent": "null",
       "children": [
         {
           "name": "Access",
-          "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/",
           "parent": "Blood Smear Images",
           "children": [
 	    {
               "name": "Open Access",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/Thick&Thin-OA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Access/Open_Access.html",
               "parent": "Access",
               "children": null
             },
             {
               "name": "Controlled Access",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Open_Access/Thick-OA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Access/Controlled_Access.html",
               "parent": "Access",
               "children": null
             },
@@ -61,24 +60,23 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 	 {
           "name": "Smear Type",
-          "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
           "parent": "Blood Smear Images",
           "children": [
   	     {
               "name": "Thick & Thin Blood Smear",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick&Thin-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Smear_Type/Thick_&_Thin_Images.html",
               "parent": "Smear Type",
               "children": null
             },
             {
               "name": "Thick Blood Smear",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Smear_Type/Thick_Blood_Smear_Images.html",
               "parent": "Smear Type",
               "children": null
             },
             {
               "name": "Thin Blood Smear",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thin-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Smear_Type/Thin_Blood_Smear_Images.html",
               "parent": "Smear Type",
               "children": null
             }
@@ -86,36 +84,35 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
  },
 	   {
           "name": "Stain Type",
-          "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
           "parent": "Blood Smear Images",
           "children": [
   	     {
               "name": "Giemsa Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick&Thin-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/Giemsa_Stain.html",
               "parent": "Stain Type",
               "children": null
             },
             {
               "name": "Field Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/Field_Stain.html",
               "parent": "Stain Type",
               "children": null
             },
 	    {
               "name": "Leishman Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/Leishman_Stain.html",
               "parent": "Stain Type",
               "children": null
             },
 	    {
               "name": "May-Grünwald Giemsa Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/May_Grunwald-Giemsa_Stain.html",
               "parent": "Stain Type",
               "children": null
             },
             {
               "name": "Modified Romanowsky Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thin-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/Modified_Romanowsky.html",
               "parent": "Stain Type",
               "children": null
             }
@@ -124,36 +121,29 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 	 {
           "name": "Species",
-          "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
           "parent": "Blood Smear Images",
           "children": [
   	     {
               "name": "Plasmodium falciparum",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick&Thin-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Parasite_Species/Plasmodium_falciparum.html",
               "parent": "Species",
               "children": null
             },
             {
               "name": "Plasmodium vivax",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
-              "parent": "Species",
-              "children": null
-            },
-	    {
-              "name": "Plasmodium malariae",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Parasite_Species/Plasmodium_vivax.html",
               "parent": "Species",
               "children": null
             },
             {
               "name": "Plasmodium ovale",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thin-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Parasite_Species/Plasmodium_ovale.html",
               "parent": "Species",
               "children": null
             },
 	    {
               "name": "Combined Species",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thin-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Parasite_Species/Combined_Species.html",
               "parent": "Species",
               "children": null
             }
@@ -163,30 +153,29 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 	      
         {
           "name": "Demography",
-          "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/",
           "parent": "Blood Smear Images",
           "children": [
   	     {
               "name": "Africa",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick&Thin-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Demography/Africa.html",
               "parent": "Demography",
               "children": null
             },
             {
               "name": "Asia",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Demography/Asia.html",
               "parent": "Demography",
               "children": null
             },
             {
               "name": "Europe",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thin-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Demography/Europe.html",
               "parent": "Demography",
               "children": null
             },
             {
               "name": "South America",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Controlled_Access/Thick-CA.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Demography/South_America.html",
               "parent": "Demography",
               "children": null
             }
