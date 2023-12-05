@@ -20,8 +20,6 @@ This is a collection of controlled-access datasets as reported by the researcher
 
 + [Arshad et al., 2022 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Arshad_et_al.,_2022_Dataset.html) - It is a thin blood smear, Giemsa-stained image dataset that contains 345 images.
   
-+ [Dave, 2018 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Dave_2018_Dataset.html) - This is a thick, Giemsa-stained image dataset consisting of 87 images.
-  
 + [Hung et al., 2017 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Hung_et_al.,_2017_Dataset.html) - This is a thin blood smear image dataset containing 1,300 images.
 
 + [Nugroho et al., 2014 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Nugroho_et_al.,_2014_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset. It contains 177 microphotographs.
