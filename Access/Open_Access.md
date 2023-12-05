@@ -1,6 +1,7 @@
 # Open Access Datasets
 This is a collection of open-access datasets, as reported by the researchers. These datasets are freely available for anyone to use.
 
+
 ## Datasets
 + [Davidson et. al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Davidson_et_al.,_2021_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset with 108 images.
 
