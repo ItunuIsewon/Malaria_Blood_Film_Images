@@ -383,6 +383,9 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 
 
+---
+❗🛑 **You can use the interactive mindmap at the top of the page or the list of contents to navigate through this repository for different categories of blood smear image datasets for automated malaria diagnosis**.
+
 ******
 ## Contents
 1. [Access](#access)
@@ -396,7 +399,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 9. [Contributions](#contributions)
 10. [License](#license)
 
-❗🛑 **You can use the interactive mindmap at the top of the page or the list of contents to navigate through this repository for different categories of blood smear image datasets for automated malaria diagnosis**.
+
 
 ### Access
 * [Open Access](Access/Open_Access.md)
