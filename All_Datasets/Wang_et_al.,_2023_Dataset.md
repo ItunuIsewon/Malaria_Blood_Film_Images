@@ -1,4 +1,4 @@
-# **Wang et al., 2023 Image Dataset**  
+**Wang et al., 2023 Image Dataset**  
 **Article Title:** Application of Deep Learning in Clinical Settings for Detecting and Classifying Malaria Parasites in Thin Blood Smears  
 **_Article Link_:** [ref](https://academic.oup.com/ofid/article/10/11/ofad469/7274735)
 
@@ -17,7 +17,7 @@ It is a **thin**, **Wright Giemsa-stained** blood smear image dataset.
 + **Optical Train:** Microscope with camera
 + **Microscope:** Olympus CX31 microscope
 + **Camera:** camera (ACA1920; Basler)
-+ **Image Resolution:** 2592 × 1944
++ **Image Resolution:** 1920 × 1200
 + **Number of Images:** 12708 images
     - _P. falciparum_ - 4405 images
     - _P. ovale_ - 117 images
