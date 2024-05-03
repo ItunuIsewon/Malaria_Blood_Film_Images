@@ -1,4 +1,4 @@
-**Wang et al., 2023 Image Dataset**  
+# **Wang et al., 2023 Image Dataset**  
 **Article Title:** Application of Deep Learning in Clinical Settings for Detecting and Classifying Malaria Parasites in Thin Blood Smears  
 **_Article Link_:** [ref](https://academic.oup.com/ofid/article/10/11/ofad469/7274735)
 
