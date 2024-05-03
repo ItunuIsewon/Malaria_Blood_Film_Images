@@ -15,7 +15,7 @@ It is a **thin**, **Giemsa-stained** image dataset
 ## **Imaging Technique**
 + **Optical Train:** Microscope
 + **Microscope Type:** Digital microscope
-+ **Magnification:** 1000× 
++ **Magnification:** 100× 
 + **Number of Images:** 600
   
 
