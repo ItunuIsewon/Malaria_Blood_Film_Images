@@ -17,7 +17,7 @@ It is a **thick**, **Giemsa-stained** blood smear image dataset
 ## **Imaging Technique**
 + **Optical Train:** Microscope
 + **Microscope Type:**  ZEISS Axio Imager M2 microscope
-+ **Magnification:** 1000×
++ **Magnification:** 100×
 + **Resolution:** 1388 × 1040
 + **Number of Images:** 676
 
