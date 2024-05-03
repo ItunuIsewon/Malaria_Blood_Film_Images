@@ -17,7 +17,7 @@ It is a **thick and thin**, **Giemsa-stained** blood smear image dataset.
 
 ## **Imaging Technique**
 + **Optical Train:** Microscope with automatic scanning and image analysis software
-+ **Magnification:** 1000× 
++ **Magnification:** 100× 
   
 
 ## **Dataset Availability**
