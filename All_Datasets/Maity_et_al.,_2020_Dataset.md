@@ -17,7 +17,7 @@ It is a **thin** blood smear image dataset.
 
 ## **Imaging Technique**
 + **Optical Train:** Microscope
-+ **Magnification:** 1000× 
++ **Magnification:** 100× 
 + **Image Resolution:** 0.054 μm pixel 
 + **Number of Images:** 210 images
     - _P. falciparum_: 90
