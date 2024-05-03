@@ -17,7 +17,7 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 ## **Imaging Technique**
 + **Optical Train:** Microscope
 + **Microscope Type:** ×SZ-107 series microscope
-+ **Magnification:** 1000×
++ **Magnification:** 100×
 + **Number of Images:** 345 images
   
 
