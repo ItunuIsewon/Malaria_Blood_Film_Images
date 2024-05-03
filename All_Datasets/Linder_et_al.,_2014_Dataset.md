@@ -1,4 +1,4 @@
-# **Diwan et al., 2014 Image Dataset**  
+# **Linder et al., 2014 Image Dataset**  
 **Article Title:** A Malaria Diagnostic Tool Based on Computer Vision Screening and Visualization of Plasmodium falciparum Candidate Areas in Digitized Blood Smears
 
 **Article Link:** [ref](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4140733/)
