@@ -15,7 +15,7 @@ This is a **thick** blood smear image dataset
 
 ## **Imaging Technique**
 + **Optical Train:** Microscope
-+ **Magnification:** 1000× 
++ **Magnification:** 100× 
 + **Image Resolution:**  1280 x 960 pixels
 + **Number of Images:** 30
   
