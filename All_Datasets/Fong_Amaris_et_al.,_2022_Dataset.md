@@ -17,7 +17,7 @@ It is a **thick**, **Modified Romanowsky-stained** blood smear image dataset
 ## **Imaging Technique**
 + **Optical Train:** Microscope
 + **Microscope Type:** Axio Zeiss Scope A1 Optical microscope
-+ **Magnification:** 1000×
++ **Magnification:** 100×
 + **Resolution:** 2056 × 2452 
 + **Number of Images:** 420
 
