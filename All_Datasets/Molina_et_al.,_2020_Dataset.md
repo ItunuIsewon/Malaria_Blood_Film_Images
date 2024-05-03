@@ -16,7 +16,7 @@ This is a **thin**, **May Grünwald-Giemsa-stained** blood smear image dataset
 + **Optical Train:** Microscope
 + **Microscope Type:** Olympus BX43 microscope
 + **Camera Type:** Olympus DP73 Camera
-+ **Magnification:** 1000× 
++ **Magnification:** 100× 
 + **Image Resolution:** 2400 × 1800 pixels
 + **Number of Images:** 32 images
   
