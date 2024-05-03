@@ -17,7 +17,7 @@ It is a **thick**, **Field-stained** blood smear image dataset
 ## **Imaging Technique**
 + **Optical Train:** Microscope and camera
 + **Microscope Type:** Brunel SP150 microscope
-+ **Magnification:** 1000×
++ **Magnification:** 100×
 + **Resolution:** 1024 × 768 
 + **Number of Images:** 2703
 
