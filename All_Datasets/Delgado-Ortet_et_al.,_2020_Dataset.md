@@ -16,7 +16,7 @@ It is a **thin**, **MGG-stained** blood smear image dataset
 + **Optical Train:** Camera appended to a microscope
 + **Microscope:** Olympus B×43 microscope (Olympus, Tokyo, Japan)
 + **Camera Type:** Microscope digital camera DP73 (Olympus, Tokyo, Japan)
-+ **Magnification:** 1000×
++ **Magnification:** 100×
 + **Image Resolution:** 2400 × 1800
 + **Number of Images:** 517
 
