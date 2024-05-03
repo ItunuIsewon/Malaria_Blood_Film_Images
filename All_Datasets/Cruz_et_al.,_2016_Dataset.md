@@ -17,7 +17,7 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 ## **Imaging Technique**
 + **Optical Train:** Binocular microscope with in-built digital camera attached to the eyepiece
 + **Microscope Type:** OMAX MD827S30 Series: Gyeonggi-do, Korea
-+ **Magnification:** 1000× using oil immersion
++ **Magnification:** 100× using oil immersion
 + **Number of Images:** 267 images
   
 
