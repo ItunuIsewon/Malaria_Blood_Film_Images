@@ -28,7 +28,7 @@ This is a **thin**, **Giemsa-stained** blood smear image dataset
 
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
-|Publicly Available| [Dataset](https://osf.io/3kc2d/)
+|Publicly Available| [Dataset](https://osf.io/3kc2d/)|10.1038/s41551-021-00733-w|
 
 ## **Cite this Article**
 
