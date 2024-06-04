@@ -1,4 +1,4 @@
-# **Quinn et al., 2014 Image Dataset **  
+# Quinn et al., 2014 Image Dataset   
 **Article Title:** Automated Blood Smear Analysis for Mobile Malaria Diagnosis
 
 **_Article Link_:** [ref](https://www.researchgate.net/publication/266146329_Automated_Blood_Smear_Analysis_for_Mobile_Malaria_Diagnosis)
