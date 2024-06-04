@@ -1,7 +1,7 @@
-# **Koirala et al., 2023 Image Dataset**  
-**Article Title:** Deep Learning for Real-Time Malaria Parasite Detection and Counting Using YOLO-mp
+# **Quinn et al., 2014 Image Dataset **  
+**Article Title:** Automated Blood Smear Analysis for Mobile Malaria Diagnosis
 
-**_Article Link_:** [ref](https://ieeexplore.ieee.org/document/9896857/)
+**_Article Link_:** [ref](https://www.researchgate.net/publication/266146329_Automated_Blood_Smear_Analysis_for_Mobile_Malaria_Diagnosis)
 
 ## **Description**
 It is a **thick**, **Field-stained** blood smear image dataset 
@@ -31,12 +31,12 @@ It is a **thick**, **Field-stained** blood smear image dataset
 
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
-|Publicly Available| [Dataset](https://air.ug/microscopy_dataset/)| 10.1109/ACCESS.2022.3208270|
+|Publicly Available| [Dataset](https://air.ug/microscopy_dataset/)|10.1201/9781315215723-10|
 
 
 ## **Cite this article**
 
 ❗🛑 **If you are using this resource, please cite:**
 ```
-A. Koirala et al., "Deep Learning for Real-Time Malaria Parasite Detection and Counting Using YOLO-mp," in IEEE Access, vol. 10, pp. 102157-102172, 2022, doi: 10.1109/ACCESS.2022.3208270.
+Quinn, J. A., Andama, A., Munabi, I., & Kiwanuka, F. N. (2014). Automated blood smear analysis for mobile malaria diagnosis. Mobile Point-of-Care Monitors and Diagnostic Device Design, October, 115–132. https://doi.org/10.1201/9781315215723-10
 ```
