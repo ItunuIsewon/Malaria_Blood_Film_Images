@@ -1,5 +1,5 @@
 # **Adi et al., 2016 Image Dataset**  
-**Article Title:** Identifying the Developmental Phase of Plasmodium Falciparum in MalariaInfected Red Blood Cells Using Adaptive Color Segmentation And Back Propagation Neural Network 
+**Article Title:** Identifying the Developmental Phase of Plasmodium Falciparum in Malaria Infected Red Blood Cells Using Adaptive Color Segmentation And Back Propagation Neural Network 
 
 **_Article Link_:** [ref](https://www.academia.edu/download/48627774/ijaerv11n15_60.pdf)
 
