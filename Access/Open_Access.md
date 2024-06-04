@@ -32,3 +32,4 @@ This is a collection of open-access datasets, as reported by the researchers. Th
 + [Taiwan Images for Malaria Eradication (TIME)](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/TIME_Dataset.html) - It is a thin, Giemsa-stained malaria image dataset.
 
 + [Yu et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Yu_et_al.,_2023_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset.
+
