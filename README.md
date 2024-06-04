@@ -45,13 +45,13 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
           "children": [
 	    {
               "name": "Open Access",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Access/Open_Access.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Access/Open_Access.html",
               "parent": "Access",
               "children": null
             },
             {
               "name": "Controlled Access",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Access/Controlled_Access.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Access/Controlled_Access.html",
               "parent": "Access",
               "children": null
             },
@@ -65,19 +65,19 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
           "children": [
   	     {
               "name": "Thick & Thin Blood Smear",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Smear_Type/Thick_&_Thin_Images.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Smear_Type/Thick_&_Thin_Images.html",
               "parent": "Smear Type",
               "children": null
             },
             {
               "name": "Thick Blood Smear",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Smear_Type/Thick_Blood_Smear_Images.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Smear_Type/Thick_Blood_Smear_Images.html",
               "parent": "Smear Type",
               "children": null
             },
             {
               "name": "Thin Blood Smear",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Smear_Type/Thin_Blood_Smear_Images.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Smear_Type/Thin_Blood_Smear_Images.html",
               "parent": "Smear Type",
               "children": null
             }
@@ -89,31 +89,37 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
           "children": [
   	     {
               "name": "Giemsa Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/Giemsa_Stain.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Stain_Type/Giemsa_Stain.html",
               "parent": "Stain Type",
               "children": null
             },
             {
               "name": "Field Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/Field_Stain.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Stain_Type/Field_Stain.html",
               "parent": "Stain Type",
               "children": null
             },
 	    {
               "name": "Leishman Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/Leishman_Stain.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Stain_Type/Leishman_Stain.html",
               "parent": "Stain Type",
               "children": null
             },
 	    {
               "name": "May-Grünwald Giemsa Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/May_Grunwald-Giemsa_Stain.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Stain_Type/May_Grunwald-Giemsa_Stain.html",
               "parent": "Stain Type",
               "children": null
             },
+	    {
+              "name": "Wright-Giemsa Stain",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Stain_Type/May_Grunwald-Giemsa_Stain.html",
+              "parent": "Stain Type",
+              "children": null
+            },	  
             {
               "name": "Modified Romanowsky Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Stain_Type/Modified_Romanowsky.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Stain_Type/Modified_Romanowsky.html",
               "parent": "Stain Type",
               "children": null
             }
@@ -126,25 +132,25 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
           "children": [
   	     {
               "name": "Plasmodium falciparum",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Parasite_Species/Plasmodium_falciparum.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Parasite_Species/Plasmodium_falciparum.html",
               "parent": "Species",
               "children": null
             },
             {
               "name": "Plasmodium vivax",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Parasite_Species/Plasmodium_vivax.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Parasite_Species/Plasmodium_vivax.html",
               "parent": "Species",
               "children": null
             },
             {
               "name": "Plasmodium ovale",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Parasite_Species/Plasmodium_ovale.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Parasite_Species/Plasmodium_ovale.html",
               "parent": "Species",
               "children": null
             },
 	    {
               "name": "Combined Species",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Parasite_Species/Combined_Species.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Parasite_Species/Combined_Species.html",
               "parent": "Species",
               "children": null
             }
@@ -158,25 +164,25 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
           "children": [
   	     {
               "name": "Africa",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Demography/Africa.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Demography/Africa.html",
               "parent": "Demography",
               "children": null
             },
             {
               "name": "Asia",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Demography/Asia.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Demography/Asia.html",
               "parent": "Demography",
               "children": null
             },
             {
               "name": "Europe",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Demography/Europe.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Demography/Europe.html",
               "parent": "Demography",
               "children": null
             },
             {
               "name": "South America",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/Demography/South_America.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Demography/South_America.html",
               "parent": "Demography",
               "children": null
             }
@@ -372,7 +378,6 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 </script>
 
 
-
 ---
 ❗🛑 **You can use the interactive mindmap at the top of the page or the list of contents to navigate through this repository for different categories of blood smear image datasets for automated malaria diagnosis**.
 
@@ -460,7 +465,6 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 *   [Delas Peñas et al., 2018 Image Dataset](All_Datasets/Delas_Peñas_et_al.,_2018_Dataset.md)
 *   [Delgado-Ortet et al., 2020 Image Dataset](All_Datasets/Delgado-Ortet_et_al.,_2020_Dataset.md)
 *   [Devi et al., 2018 Image Dataset](All_Datasets/Devi_et_al.,_2018_Dataset.md)
-*   [Diwan et al., 2014 Image Dataset](All_Datasets/Diwan_et_al.,_2014_Dataset.md)
 *   [Fu et al., 2023 Image Dataset](All_Datasets/Fu_et_al.,_2023_Dataset.md)
 *   [Kanafiah et al., 2022 Image Dataset](All_Datasets/Kanafiah_et_al.,_2022_Dataset.md)
 *   [Loh et al., 2020 Image Dataset](All_Datasets/Loh_et_al.,_2020_Dataset.md)
@@ -479,6 +483,30 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 *   [The Broad Bioimage Benchmark Collection](All_Datasets/BBBC.md)
 *   [Manescu et al., 2020 Image Dataset](All_Datasets/Manescu_et_al.,_2020_Dataset.md)
 *   [Nakasi et al., 2021 Image Dataset](All_Datasets/Nakasi_et_al.,_2021_Dataset.md)
+*   [Zhong et al., 2023 Image Dataset](All_Datasets/Zhong_et_al.,_2023_Dataset.md)
+*   [Linder et al., 2014 Image Dataset](All_Datasets/Linder_et_al.,_2014_Dataset.md)
+*   [Wang et al., 2023 Image Dataset](All_Datasets/Wang_et_al.,_2023_Dataset.md)
+*   [Hartati et al., 2019 Image Dataset](All_Datasets/Hartati_et_al.,_2019_Dataset.md)
+*   [Tantisatirapong & Phothisonothai, 2018 Image Dataset](All_Datasets/Tantisatirapong_&_Phothisonothai_2018_Dataset.md)
+*   [Sampathila et al., 2018 Image Dataset](All_Datasets/Sampathila_et_al.,_2018_Dataset.md)
+*   [Nugroho et al., 2019 Image Dataset](All_Datasets/Nugroho_et_al.,_2019_Dataset.md)
+*   [Kudisthalert et al., 2020 Image Dataset](All_Datasets/Kudisthalert_et_al.,_2020_Dataset.md)
+*   [Shi et al., 2020 Image Dataset](All_Datasets/Shi_et_al.,_2020_Dataset.md)
+*   [Vijayalakshmi & Rajesh, 2019 Image Dataset](All_Datasets/Vijayalakshmi_&_Rajesh_2019_Dataset.md)
+*   [Pathology Education Informational Resource (PEIR) Digital Library](All_Datasets/PEIR_Digital_Library.md)
+*   [Karimi et al., 2014 Image Dataset](All_Datasets/Karimi_et_al.,_2014_Dataset.md)
+*   [Adi et al., 2016 Image Dataset](All_Datasets/Adi_et_al.,_2016_Dataset.md)
+*   [BBLK Image Dataset](All_Datasets/BBLK_Image_Dataset.md)
+*   [Gh-Lab Image Dataset](All_Datasets/Gh-Lab_Dataset.md)
+*   [Hung et al., 2015 Image Dataset](All_Datasets/Hung_et_al.,_2015_Dataset.md)
+*   [Karimi et al., 2014 Image Dataset](All_Datasets/Karimi_et_al.,_2014_Dataset.md)
+*   [Krappe et al., 2017 Image Dataset](All_Datasets/Krappe_et_al.,_2017_Dataset.md)
+*   [PlasmoID Image Dataset](All_Datasets/PlasmoID_Image_Dataset.md)
+*   [Rahmanti et al., 2015 Image Dataset](All_Datasets/Rahmanti_et_al.,_2015_Dataset.md)
+*   [Sharma et al., 2022 Image Dataset](All_Datasets/Sharma_et_al.,_2022_Dataset.md)
+*   [Xiong et al., 2015 Image Dataset](All_Datasets/Xiong_et_al.,_2015_Dataset.md)
+*   [Kanakasabapathy et al., 2021 Image Dataset](All_Datasets/Kanakasabapathy_et_al.,_2021_Dataset.md)
+*   [Shaka et al., 2020 Image Dataset](All_Datasets/Shaka_et_al.,_2020_Dataset.md)
   
 <a href="#top">[Back to Top](#contents)</a>
 
