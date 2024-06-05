@@ -1,11 +1,11 @@
 # **Summary Table**
-(Pf – _Plasmodium falciparum_, Pv- _Plasmodium vivax_, Po – _Plasmodium ovale_, Pm – _Plasmodium malariae_, Pk – _Plasmodium knowlesi_, NR – Not reported)
+(Pf – _Plasmodium falciparum_, Pv- _Plasmodium vivax_, Po – _Plasmodium ovale_, Pm – _Plasmodium malariae_, Pk – _Plasmodium knowlesi_, Pc – Plasmodium cynomolgi  NR – Not reported)
 
 
 |**Dataset**|**Country**|**Plasmodium Species**|**Smear Type**|**Stain Type**|**Number of Images**|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Yu et al., 2023 Image Dataset|Sudan|Pv, Pf|Thick & Thin|Giemsa|Thick - 2944, Thin - 875|
-|Koirala et al., 2022 Image Dataset|Uganda|Pf |Thick|Field|2703|
+|Quinn et al., 2014 Image Dataset|Uganda|Pf |Thick|Field|2703|
 |Fong Amaris et al., 2022 Image Dataset|Colombia|Pv|Thick| Modified Romanowsky|	420|
 |de Souza Oliveira et al., 2022 Image Dataset|Brazil|	NR|	Thick|		Giemsa|	676|
 |Arshad et al., 2022 Image Dataset| 	Pakistan|	Pv|	Thin|		Giemsa|	345|
@@ -34,8 +34,7 @@
 |Das et al., 2015 Image Dataset |India|	Pf, Pv	|Thin|	Leishman|	750|
 |Molina et al., 2020 Image Dataset 	|	NR	||Thin	|Giemsa	||
 |Fu et al., 2023 Image Dataset |	China	|Pf, Pv, Pm, Po	|Thin|||		
-|Diwan et al., 2014 Image Dataset |Finland	|Pf|	Thin|	Giemsa	|42,787|
-|Mushabe et al., 2013 Image Dataset| |Pf	|Thin	|Giemsa||	
+|Linder et al., 2014 Image Dataset |Finland	|Pf|	Thin|	Giemsa	|42,787|
 |Nugroho et al., 2014 Image Dataset 	|Indonesia|	Po	|Thin	|Giemsa|	|
 |Liu et al., 2023 Image Dataset |Sierra Leone	|NR	|Thin	|Giemsa|	177|
 |Loh et al., 2020 Image Dataset|	NR	|Pf 3D7 strain	|Thin	|Giemsa	|297|
@@ -46,3 +45,27 @@
 |Davidson et. al., 2021 Image Dataset|	NR	|Pf 3D7, NF54, DD2, and D10	|Thin|	Giemsa|	108|
 |Sunarko et al., 2017 Image Dataset	|NR		||Thin	|Giemsa	||
 |The Broad Bioimage Benchmark Collection| Brazil	|Pv	|Thin	|Giemsa|	1364|
+|Zhong et al., 2023 Image Dataset|Sudan|Pf, Pv|Thick|Giemsa|111|
+|Wang et al., 2023 Image Dataset|China|Pf, Pv, Po, Pm, Pk, Pc|Thin|Wright-Giemsa|Pf – 4405, Pv - 3030, Pm - 225 , Po - 117, Pk - 4630, Pc - 139|
+|Hartati et al., 2019 Image Dataset|Indonesia|Pm, Pf, Pv|Thin|Giemsa|600|
+|Nugroho et al., 2021 Image Dataset|Thailand|Pf|Thin|Giemsa|280|
+|Sampathila et al., 2018 Image Dataset|India|Pv|Thin|Leishman|143|
+|Nugroho et al., 2019 Image Dataset|Indonesia|Pv|Thin||73|
+|Kudisthalert et al., 2020 Image Dataset|Thailand|Pf|Thin|Giemsa|23248|
+|Shi et al., 2020 Image Dataset|China||||217|
+|Vijayalakshmi & Kanna, 2020 Image Dataset|India|Pf|Thin|Giemsa||
+|Pathology Education Informational Resource (PEIR) Digital Library|||Thin||
+|Sumi et al., 2021 Image Dataset|Indonesia||Thick|Giemsa|36|
+|Karimi et al., 2014 Image Dataset|Iran|Po, Pm|Thin|Giemsa|27|
+|Wibisono et al., 2020 Image Dataset|Indonesia||Thin||100|
+|Hung et al., 2015 Image Dataset||Pf, Pm, Po, Pv|||96|
+|Adi et al., 2016 Image Dataset||Pf|||152|
+|Rahmanti et al., 2016 Image Dataset|Indonesia|Pv|Thick|||
+|Xiong et al., 2015 Image Dataset|Singapore||Giemsa|>15000|
+|Hendrawan et al., 2017 Image Dataset|Indonesia|Pf, Pv, Pm, Po|||574|
+|Krappe et al., 2017 Image Dataset||Pf, Pm, Pv|Thick|||
+|Sharma et al., 2020 Image Dataset|India|Pf, Pv|Thin|Leishman|2800|
+|Nugroho et al., 2022 Image Dataset|Indonesia|Pf, Pv, Pm, Po|Thin||559|
+|Gh-Lab Image Dataset|South America, Africa, Asia, London|Pf, Pm, Po, Pv|Thin|Giemsa|323000 |
+|Kanakasabapathy et al., 2021 Image Dataset||Pf|Thin|Giemsa|12635, 11397, 14469|
+|Shaka et al., 2021 Image Dataset|Tanzania||Thick|Giemsa|10000|
