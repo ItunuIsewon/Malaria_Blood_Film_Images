@@ -36,7 +36,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
   var treeData = [
     {
       "name": "Blood Smear Images",
-      "url": "https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Summary_Table.html",
+      "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Summary_Table.html",
       "parent": "null",
       "children": [
         {
@@ -113,7 +113,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
             },
 	    {
               "name": "Wright-Giemsa Stain",
-              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Stain_Type/May_Grunwald-Giemsa_Stain.html",
+              "url": "https://itunuisewon.github.io/Malaria_Blood_Film_Images/Stain_Type/Wright-Giemsa_Stain.html",
               "parent": "Stain Type",
               "children": null
             },	  
