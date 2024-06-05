@@ -58,29 +58,29 @@ The thin smear is used to identify the malaria parasite species, the life cycle 
 
 + [Sunarko et al., 2017 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Sunarko_et_al.,_2017_Dataset.html) -  It is a thick and thin, Giemsa-stained blood smear image dataset.
 
-+ [Wang et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Wang_et_al.,_2023_Dataset.html) - It is a thin, Wright Giemsa-stained blood smear image dataset.
++ [Wang et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Wang_et_al.,_2023_Dataset.html) - It is a thin, Wright Giemsa-stained blood smear image dataset.
 
-+ [Hartati et al., 2019 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Hartati_et_al.,_2019_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset
++ [Hartati et al., 2019 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Hartati_et_al.,_2019_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset
 
-+ [Tantisatirapong & Phothisonothai, 2018 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Tantisatirapong_&_Phothisonothai_2018_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset
++ [Tantisatirapong & Phothisonothai, 2018 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Tantisatirapong_&_Phothisonothai_2018_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset
 
-+ [Sampathila et al., 2018 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Sampathila_et_al.,_2018_Dataset.html) - It is a thin, Leishman-stained blood smear image dataset.
++ [Sampathila et al., 2018 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Sampathila_et_al.,_2018_Dataset.html) - It is a thin, Leishman-stained blood smear image dataset.
 
-+ [Nugroho et al., 2019 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Nugroho_et_al.,_2019_Dataset.html) - This is a thin blood smear image dataset.
++ [Nugroho et al., 2019 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Nugroho_et_al.,_2019_Dataset.html) - This is a thin blood smear image dataset.
 
-+ [Kudisthalert et al., 2020 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Kudisthalert_et_al.,_2020_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset.
++ [Kudisthalert et al., 2020 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Kudisthalert_et_al.,_2020_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset.
 
-+ [Vijayalakshmi & Rajesh, 2019 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Vijayalakshmi_&_Rajesh_2019_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset.
++ [Vijayalakshmi & Rajesh, 2019 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Vijayalakshmi_&_Rajesh_2019_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset.
 
-+ [Karimi et al., 2014 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Karimi_et_al.,_2014_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset.
++ [Karimi et al., 2014 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Karimi_et_al.,_2014_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset.
 
-+ [Gh-Lab Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Gh-Lab_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset.
++ [Gh-Lab Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Gh-Lab_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset.
 
-+ [Hung et al., 2015 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Hung_et_al.,_2015_Dataset.html) - 
++ [Hung et al., 2015 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Hung_et_al.,_2015_Dataset.html) - 
 It is a thin, Giemsa-stained blood smear image dataset.
 
-+ [Sharma et al., 2022 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/Sharma_et_al.,_2022_Dataset.html) - This is a thin, Leishman-stained blood smear image dataset.
++ [Sharma et al., 2022 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Sharma_et_al.,_2022_Dataset.html) - This is a thin, Leishman-stained blood smear image dataset.
 
-+ [PlasmoID Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Images_Images/All_Datasets/PlasmoID_Image_Dataset.html) - This is a thin, blood smear image dataset.
++ [PlasmoID Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/PlasmoID_Image_Dataset.html) - This is a thin, blood smear image dataset.
 
 + [Kanakasabapathy et al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Kanakasabapathy_et_al.,_2021_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset.
