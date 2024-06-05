@@ -5,8 +5,7 @@ It is a **thin** blood smear whole slide image dataset
 
 **Study Area:** University of Alabama at Birmingham, Department of Pathology
 
-
-+ **Parasite’s species:** _Plasmodium falciparum_
+**Parasite’s species:** _Plasmodium falciparum_
 
 
 
