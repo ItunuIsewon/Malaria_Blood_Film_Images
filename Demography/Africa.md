@@ -4,7 +4,7 @@ These are the image datasets that originated in Africa, as reported by the resea
 ## Datasets
 + [Yu et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Yu_et_al.,_2023_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset originating from Sudan.
 
-+ [Koirala et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Koirala_et_al.,_2022_Dataset.html) - It is a thick, field-stained blood smear image dataset originating from Uganda.
++ [Quinn et al., 2014 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Quinn_et_al.,_2014_Dataset.html) - It is a thick, field-stained blood smear image dataset originating from Uganda.
 
 + [Manescu et al., 2020 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Manescu_et_al.,_2020_Dataset.html) - It is a thick, Giemsa-stained blood smear image dataset originating from Nigeria.
 
