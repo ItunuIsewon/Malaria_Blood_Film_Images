@@ -419,6 +419,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 * [Leishman Stain](Stain_Type/Leishman_Stain.md)
 * [May Grunwald-Giemsa Stain](Stain_Type/May_Grunwald-Giemsa_Stain.md)
 * [Modified Romanowsky Stain](Stain_Type/Modified_Romanowsky.md)
+* [Wright-Giemsa Stain](Stain_Type/Wright-Giemsa_Stain.md)
 
 <a href="#top">[Back to Top](#contents)</a>
 
