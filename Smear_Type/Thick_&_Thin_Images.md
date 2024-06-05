@@ -10,14 +10,14 @@ The thick blood smear is thicker and is prepared by swirling the drop of blood, 
 
 
 ## Datasets
-+ [Davidson et. al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Davidson_et_al.,_2021_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset with 108 images.
++ [Davidson et. al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Davidson_et_al.,_2021_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset with 108 images.
 
-+ [National Institute of Health Plasmodium falciparum Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/NIH_Pf_Dataset.html) - It is a thin and thick, Giemsa-stained blood smear image dataset.
++ [National Institute of Health Plasmodium falciparum Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/NIH_Pf_Dataset.html) - It is a thin and thick, Giemsa-stained blood smear image dataset.
 
-+ [Yu et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Yu_et_al.,_2023_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset.
++ [Yu et al., 2023 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Yu_et_al.,_2023_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset.
 
-+ [Aris et al., 2021 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Aris_et_al.,_2021_Dataset.html) - This is a thick and thin image dataset. _Plasmodium falciparum_ and _vivax_ are the species of interest. 
++ [Aris et al., 2021 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Aris_et_al.,_2021_Dataset.html) - This is a thick and thin image dataset. _Plasmodium falciparum_ and _vivax_ are the species of interest. 
 
-+ [Khan et al., 2017 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Khan_et_al.,_2017_Dataset.html) - This is a thick and thin Leishman-stained blood smear image dataset. It has a total of 330 images.
++ [Khan et al., 2017 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Khan_et_al.,_2017_Dataset.html) - This is a thick and thin Leishman-stained blood smear image dataset. It has a total of 330 images.
 
-+ [Yoon et. al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Smear_Images/All_Datasets/Yoon_et_al.,_2021_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset. It contains _Plasmodium falciparum_ and _vivax_.
++ [Yoon et. al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Yoon_et_al.,_2021_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset. It contains _Plasmodium falciparum_ and _vivax_.
