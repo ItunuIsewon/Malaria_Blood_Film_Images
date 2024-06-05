@@ -1,5 +1,5 @@
 # **Summary Table**
-(Pf – _Plasmodium falciparum_, Pv- _Plasmodium vivax_, Po – _Plasmodium ovale_, Pm – _Plasmodium malariae_, Pk – _Plasmodium knowlesi_, Pc – Plasmodium cynomolgi  NR – Not reported)
+(Pf – _Plasmodium falciparum_, Pv- _Plasmodium vivax_, Po – _Plasmodium ovale_, Pm – _Plasmodium malariae_, Pk – _Plasmodium knowlesi_, Pc – _Plasmodium cynomolgi_  NR – Not reported)
 
 
 |**Dataset**|**Country**|**Plasmodium Species**|**Smear Type**|**Stain Type**|**Number of Images**|
