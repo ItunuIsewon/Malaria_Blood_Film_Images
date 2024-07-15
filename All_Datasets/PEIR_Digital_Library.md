@@ -1,4 +1,5 @@
 # **Pathology Education Informational Resource (PEIR) Digital Library**  
+**_Link:_** [ref](https://peir.path.uab.edu/wiki/IPLab:Lab_11:Malaria)
 
 ## **Description**
 It is a **thin** blood smear whole slide image dataset
