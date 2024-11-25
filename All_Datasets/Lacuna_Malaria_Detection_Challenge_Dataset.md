@@ -17,14 +17,12 @@ and differentiate between infected and uninfected blood cells.
 ## **Image Preview**
 ![Figure Lacuna1](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Lacuna1.jpg)
 
-### **Thick (Uninfected)**
-![Figure NIH-Pf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/NIH%20uninfected.png)
+![Figure Lacuna2](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Lacuna2.jpg)
 
 
 
 ## **Dataset Availability**
 
 |**Status**|**Dataset Link**|
-|:---:|:---:|:---:|
-|Publicly available| [Dataset](https://drive.google.com/file/d/16T40TdpaB8VXohm50SySREwrzbuPcJBC/view?usp=sharing
-)|
+|:---:|:---:|
+|Publicly available| [Dataset](https://drive.google.com/file/d/16T40TdpaB8VXohm50SySREwrzbuPcJBC/view?usp=sharing)|
