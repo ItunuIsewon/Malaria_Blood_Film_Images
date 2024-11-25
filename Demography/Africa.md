@@ -19,3 +19,6 @@ These are the image datasets that originated in Africa, as reported by the resea
 + [Gh-Lab Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Gh-Lab_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset with some images originating from Africa.
 
 + [Shaka et al., 2020 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Shaka_et_al.,_2020_Dataset.html) - It is a thick, Giemsa-stained blood smear image dataset originating from Tanzania.
+
++ [Lacuna Malaria Detection Challenge Image Dataset]() - It is an image dataset curated for the Lacuna Malaria Detection Challenge.
+  
