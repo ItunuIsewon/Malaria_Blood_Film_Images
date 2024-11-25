@@ -15,17 +15,11 @@ and differentiate between infected and uninfected blood cells.
 
 
 ## **Image Preview**
-### **Thick (Infected)**
-![Figure NIH-Pf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/NIH-%20ThickPf.jpg)
+![Figure Lacuna1](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Lacuna1.jpg)
 
 ### **Thick (Uninfected)**
 ![Figure NIH-Pf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/NIH%20uninfected.png)
 
-### **Thin (Infected)**
-![Figure NIH-Thinpf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/NIH_Infected%20Pf.png)
-
-### **Thin (Uninfected)**
-![Figure NIH-Thinpf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/NIH_Uninfected%20pf.png)
 
 
 ## **Dataset Availability**
