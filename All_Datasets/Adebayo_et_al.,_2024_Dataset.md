@@ -20,8 +20,8 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
 + **Optical Train:** Microscope
 + **Magnification:** 100x
 + **Number of Images:** 881 images
-    - **Positive:** 550 images
-    - **Negative:** 331 images
+    - **Infected:** 550 images
+    - **Uninfected:** 331 images
 
 
 ## **Dataset Availability**
