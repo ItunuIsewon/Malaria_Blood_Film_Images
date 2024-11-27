@@ -70,5 +70,12 @@
 |Kanakasabapathy et al., 2021 Image Dataset||Pf|Thin|Giemsa|12635, 11397, 14469|
 |Shaka et al., 2021 Image Dataset|Tanzania||Thick|Giemsa|10000|
 |Lacuna Malaria Detection Challenge Image Dataset|Uganda||||3925|
+|Muhammad et al., 2025 Image Dataset| Nigeria||Thin|Giemsa, Fields|24712|
+|Adebayo et al., 2024 Image Dataset|Nigeria|Pm,Pf,Po|Thick & Thin|Giemsa|881|
+|Malaria Research Centre, UNIMAS, Sarawak Image Dataset|Malaysia|Pf,Pv,Po,Pm,Pk|Thin|Giemsa|472|
+|Microscopic Images of Parasites Species|||||843|
+|Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset|Brazil|Pv|Thin|Giemsa|27|
+|Chamidah et al., 2024 Image Dataset|Indonesia||||100|
+|Özbilge et al., 2024 Image Dataset|Cyprus|Pf,Pv,Po|Thin|Giemsa||
 
 
