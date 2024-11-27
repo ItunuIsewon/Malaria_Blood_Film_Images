@@ -18,3 +18,5 @@ These datasets originated in Europe, as reported by the researchers.
 + [National Reference Center Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/NRC_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset with 1250 images originating from France.
 
 + [Krappe et al., 2017 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Krappe_et_al.,_2017_Dataset.html) - It is a thick, blood smear image dataset originating from Germany.
+
++ [Özbilge et al., 2024 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/%C3%96zbilge_et_al.%2C_2024_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset originating from Cyprus.
