@@ -84,3 +84,11 @@ It is a thin, Giemsa-stained blood smear image dataset.
 + [PlasmoID Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/PlasmoID_Image_Dataset.html) - This is a thin, blood smear image dataset.
 
 + [Kanakasabapathy et al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Kanakasabapathy_et_al.,_2021_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset.
+
++ [Muhammad et al., 2025 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/Muhammad_et_al.%2C_2025_Dataset.md) - It is a thin, Giemsa-stained blood smear image dataset.
+
++ [Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/FIOCRUZ_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset.
+
++ [Özbilge et al., 2024 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/%C3%96zbilge_et_al.%2C_2024_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset.
+
++ [Malaria Research Centre, UNIMAS, Sarawak Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/MRC_UNIMAS_Image_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset.
