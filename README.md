@@ -508,6 +508,14 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 *   [Xiong et al., 2015 Image Dataset](All_Datasets/Xiong_et_al.,_2015_Dataset.md)
 *   [Kanakasabapathy et al., 2021 Image Dataset](All_Datasets/Kanakasabapathy_et_al.,_2021_Dataset.md)
 *   [Shaka et al., 2020 Image Dataset](All_Datasets/Shaka_et_al.,_2020_Dataset.md)
+*   [Lacuna Malaria Detection Challenge Image Dataset](All_Datasets/Lacuna_Malaria_Detection_Challenge_Dataset.md)
+*   [Muhammad et al., 2025 Image Dataset](All_Datasets/Muhammad_et_al.,_2025_Dataset.md)
+*   [Adebayo et al., 2024 Image Dataset](All_Datasets/Adebayo_et_al.,_2024_Dataset.md)
+*   [Malaria Research Centre, UNIMAS, Sarawak Image Dataset](All_Datasets/MRC_UNIMAS_Image_Dataset.md)
+*   [Microscopic Images of Parasites Species](All_Datasets/Li_and_Zhang_2020_Dataset.md)
+*   [Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset](All_Datasets/FIOCRUZ_Dataset.md)
+*   [Chamidah et al., 2024 Image Dataset](All_Datasets/Chamidah_et_al.,_2024_Dataset.md)
+*   [Özbilge et al., 2024 Image Dataset](All_Datasets/Özbilge_et_al.,_2024_Dataset.md)
   
 <a href="#top">[Back to Top](#contents)</a>
 
