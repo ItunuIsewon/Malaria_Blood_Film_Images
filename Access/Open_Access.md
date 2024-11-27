@@ -39,12 +39,12 @@ This is a collection of open-access datasets, as reported by the researchers. Th
 
 + [Shaka et al., 2020 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Shaka_et_al.,_2020_Dataset.html) - It is a thick, Giemsa-stained blood smear image dataset.
 
-+ [Lacuna Malaria Detection Challenge Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/Lacuna_Malaria_Detection_Challenge_Dataset.md) - It is the dataset that was generated for the challenge.
++ [Lacuna Malaria Detection Challenge Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Lacuna_Malaria_Detection_Challenge_Dataset.html) - It is the dataset that was generated for the challenge.
 
-+ [Muhammad et al., 2025 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/Muhammad_et_al.%2C_2025_Dataset.md) - It is a thin, Giemsa-stained blood smear image dataset.
++ [Muhammad et al., 2025 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Muhammad_et_al.,_2025_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset.
 
-+ [Adebayo et al., 2024 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/Adebayo_et_al.%2C_2024_Dataset.md) - It is a thick and thin, Giemsa-stained blood smear image dataset.
++ [Adebayo et al., 2024 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Adebayo_et_al.,_2024_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset.
 
-+ [Microscopic Images of Parasites Species](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/Li_and_Zhang_2020_Dataset.md) - This parasite data set consists of 843 Plasmodium under a 400x microscope.
++ [Microscopic Images of Parasites Species](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Li_and_Zhang_2020_Dataset.html) - This parasite data set consists of 843 Plasmodium under a 400x microscope.
 
-+ [Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/FIOCRUZ_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset.
++ [Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/FIOCRUZ_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset.
