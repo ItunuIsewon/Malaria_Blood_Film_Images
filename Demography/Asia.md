@@ -71,3 +71,8 @@ These image datasets originated in Asia, as reported by the researchers.
 + [Sharma et al., 2022 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Sharma_et_al.,_2022_Dataset.html) - This is a thin, Leishman-stained blood smear image dataset originating from Indonesia.
 
 + [Xiong et al., 2015 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Xiong_et_al.,_2015_Dataset.html) - It is a Giemsa-stained, blood smear image dataset originating from singapore.
+
++ [Malaria Research Centre, UNIMAS, Sarawak Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/MRC_UNIMAS_Image_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset originating from Malaysia.
+
++ [Chamidah et al., 2024 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/Chamidah_et_al.%2C_2024_Dataset.md) - This is a blood smear image dataset originating from Indonesia.
+
