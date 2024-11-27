@@ -5,6 +5,7 @@ Thin blood smears are prepared for the diagnosis of malaria using microscopy. Th
 The thin smear is used to identify the malaria parasite species, the life cycle stages, and parasitaemia quantification. It is less sensitive when the parasite density (parasitaemia) is low. It is easy to differentiate the difference between the red blood cells and other components because of better visibility (Rehman et al., 2018).
 
 
+
 ## Datasets
 + [Broad Bioimage Benchmark Collection](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/BBBC.html) - It is a thin, Giemsa-stained blood smear image dataset containing _Plasmodium vivax_.
 
@@ -90,5 +91,5 @@ It is a thin, Giemsa-stained blood smear image dataset.
 + [Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/FIOCRUZ_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset.
 
 + [Özbilge et al., 2024 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/%C3%96zbilge_et_al.,_2024_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset.
-
+  
 + [Malaria Research Centre, UNIMAS, Sarawak Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/MRC_UNIMAS_Image_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset.
