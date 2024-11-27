@@ -25,9 +25,9 @@ This is a **thin**, **Giemsa-stained** blood smear image dataset
 
 ## **Dataset Availability**
 
-|**Dataset**|**DOI**|
-|:---:|:---:|
-|[Dataset](https://github.com/JonathanRamos/PlasmodiumAI/tree/master/Datasets/Exams/FIOCRUZ)|10.1371/journal.pcbi.1012327|
+|**Status**|**Dataset Link**|**DOI**|
+|:---:|:---:|:---:|
+|Publicly Available|[Dataset](https://github.com/JonathanRamos/PlasmodiumAI/tree/master/Datasets/Exams/FIOCRUZ)|10.1371/journal.pcbi.1012327|
 
 
 ## **Cite this Article**
