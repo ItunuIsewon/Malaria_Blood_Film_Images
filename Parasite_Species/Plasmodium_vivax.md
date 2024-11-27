@@ -25,4 +25,4 @@ It is responsible for malaria, primarily in Asia and Latin America. It causes si
 
 + [Sampathila et al., 2018 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Sampathila_et_al.,_2018_Dataset.html) - It is a thin, Leishman-stained blood smear image dataset containing _Plasmodium vivax_.
 
-+ [Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/FIOCRUZ_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset containing _Plasmodium vivax_.
++ [Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/FIOCRUZ_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset containing _Plasmodium vivax_.
