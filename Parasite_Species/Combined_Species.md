@@ -48,9 +48,9 @@ The following datasets have more than one Plasmodium species as their species of
 
 + [Sharma et al., 2022 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Sharma_et_al.,_2022_Dataset.html) - It has 2800 images and containing _P. falciparum_ and _P. vivax_.
 
-+ [Adebayo et al., 2024 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/Adebayo_et_al.%2C_2024_Dataset.md) - It contains 881 images. The species of interest are _P. falciparum_, _P. ovale_, and _P. malariae_.
++ [Adebayo et al., 2024 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Adebayo_et_al.,_2024_Dataset.html) - It contains 881 images. The species of interest are _P. falciparum_, _P. ovale_, and _P. malariae_.
 
-+ [Malaria Research Centre, UNIMAS, Sarawak Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/MRC_UNIMAS_Image_Dataset.md) - It has 472 images and contains _P. falciparum_, _P. vivax_, _P. ovale_, _P. malariae_ and _P. knowlesi_
++ [Malaria Research Centre, UNIMAS, Sarawak Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/MRC_UNIMAS_Image_Dataset.html) - It has 472 images and contains _P. falciparum_, _P. vivax_, _P. ovale_, _P. malariae_ and _P. knowlesi_
 
-+ [Özbilge et al., 2024 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/%C3%96zbilge_et_al.%2C_2024_Dataset.md) - The species of interest are  _P. falciparum_, _P. vivax_, and _P. ovale_.
++ [Özbilge et al., 2024 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/%C3%96zbilge_et_al.,_2024_Dataset.html) - The species of interest are  _P. falciparum_, _P. vivax_, and _P. ovale_.
 
