@@ -69,3 +69,6 @@
 |Gh-Lab Image Dataset|South America, Africa, Asia, London|Pf, Pm, Po, Pv|Thin|Giemsa|323000 |
 |Kanakasabapathy et al., 2021 Image Dataset||Pf|Thin|Giemsa|12635, 11397, 14469|
 |Shaka et al., 2021 Image Dataset|Tanzania||Thick|Giemsa|10000|
+|Lacuna Malaria Detection Challenge Image Dataset|Uganda||||3925|
+
+
