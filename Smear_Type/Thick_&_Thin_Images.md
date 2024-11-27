@@ -22,5 +22,5 @@ The thick blood smear is thicker and is prepared by swirling the drop of blood, 
 
 + [Yoon et. al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Yoon_et_al.,_2021_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset. It contains _Plasmodium falciparum_ and _vivax_.
 
-+ [Adebayo et al., 2024 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/Adebayo_et_al.%2C_2024_Dataset.md) - It is a thick and thin, Giemsa-stained blood smear image dataset. _Plasmodium falciparum_, _Plasmodium ovale_ and _Plasmodium malariae_ are the species of interest. 
++ [Adebayo et al., 2024 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Adebayo_et_al.,_2024_Dataset.html) - It is a thick and thin, Giemsa-stained blood smear image dataset. _Plasmodium falciparum_, _Plasmodium ovale_ and _Plasmodium malariae_ are the species of interest. 
 
