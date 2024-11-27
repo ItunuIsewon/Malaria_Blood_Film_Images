@@ -25,7 +25,7 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 |**Corresponding Author**|**DOI**|
 |:---:|:---:|
-|Tania Douglas (tania@ieee.org))|10.1109/EMBC.2013.6610346|
+|Tania Douglas (tania@ieee.org)|10.1109/EMBC.2013.6610346|
 
 
 ## **Cite this Article**
