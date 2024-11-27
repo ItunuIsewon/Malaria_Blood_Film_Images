@@ -8,4 +8,4 @@ These datasets originated in South America, as reported by the researchers.
 
 + [Hung et al., 2017 Image Dataset ](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Hung_et_al.,_2017_Dataset.html) - This is a thin blood smear image dataset containing 1,300 images originating from Brazil.
 
-+ [Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/FIOCRUZ_Dataset.md) - This is a thin, Giemsa-stained blood smear image dataset originating from Brazil.
++ [Fundação Oswaldo Cruz (FIOCRUZ) Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/FIOCRUZ_Dataset.html) - This is a thin, Giemsa-stained blood smear image dataset originating from Brazil.
