@@ -10,3 +10,5 @@ Field stain is not as sensitive as Giemsa stain, but it is still effective for d
 + [Quinn et al., 2014 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Quinn_et_al.,_2014_Dataset.html) - This dataset contains 133 patient’s blood samples, and _Plasmodium falciparum_ is the species of interest.
   
 + [Nakasi et al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Nakasi_et_al.,_2021_Dataset.html) - This contains 903 images with a resolution of 3264 × 2448 pixels.
+
++ [Muhammad et al., 2025 Image Dataset](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/All_Datasets/Muhammad_et_al.%2C_2025_Dataset.md) - It is a thin, Giemsa and Fields-stained blood smear image dataset.
