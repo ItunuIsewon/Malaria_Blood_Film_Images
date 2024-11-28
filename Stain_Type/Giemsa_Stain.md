@@ -48,7 +48,7 @@ It is a mixture of eosin and methylene blue, and it stains the cytoplasm of mala
 + [Sengar et al., 2022 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Sengar_et_al.,_2022_Dataset.html) - It is a thin, Giemsa-stained blood smear image
 
 + [Salamah et al., 2019 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Salamah_et_al.,_2019_Dataset.html) - This is a thick image dataset consisting of 30 images.
-  
+
 + [Davidson et. al., 2021 Image Dataset](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/Davidson_et_al.,_2021_Dataset.html) - It is a thin, Giemsa-stained blood smear image dataset with 108 images.
 
 + [Broad Bioimage Benchmark Collection](https://itunuisewon.github.io/Malaria_Blood_Film_Images/All_Datasets/BBBC.html) - It is a thin, Giemsa-stained blood smear image dataset containing _Plasmodium vivax_.
