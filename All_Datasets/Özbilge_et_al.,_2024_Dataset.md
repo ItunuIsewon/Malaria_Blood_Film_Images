@@ -23,7 +23,7 @@ This is a **thin**, **Giemsa-stained** blood smear image dataset
 + **Optical Train:** Microscope with smartphone
 + **Microscope Type:** Light Microscope
 + **Magnification:** 100× 
-+ **Image Size:** 4000 X3000
++ **Image Size:** 640 x 640
 
 
   
