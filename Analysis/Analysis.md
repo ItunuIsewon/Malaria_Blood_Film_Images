@@ -3,7 +3,7 @@ The review carried out between 2014-2024 identified 71 unique blood film image d
 
 
 ## Publication Count
-<img src="./Images/publication count.png" alt="Alt text" width="500">
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/publication%20count.png" alt="Alt text" width="500">
 
 ## Staining Reagents
 Staining reagents are essential in malaria microscopy to enhance the visibility of parasites within blood smears. 
