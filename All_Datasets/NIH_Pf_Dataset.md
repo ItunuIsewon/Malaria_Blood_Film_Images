@@ -29,16 +29,13 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
 
 ## **Image Preview**
 ### **Thick (Infected)**
-<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/NIH-%20ThickPf.jpg" alt="Alt text" width="500">
-
-### **Thick (Uninfected)**
-<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/NIH%20uninfected.png" alt="Alt text" width="500">
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/NIH-ThickPf.jpg?raw=true" alt="" width="500">
 
 ### **Thin (Infected)**
-![Figure NIH-Thinpf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/NIH_Infected%20Pf.png)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Thin%20Blood%20Smears/NIH_Infected%20Pf.png?raw=true" alt="Alt text" width="500">
 
 ### **Thin (Uninfected)**
-![Figure NIH-Thinpf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/NIH_Uninfected%20pf.png)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Thin%20Blood%20Smears/NIH_Uninfected%20pf.png?raw=true" alt="Alt text" width="500">
 
 
 ## **Dataset Availability**
