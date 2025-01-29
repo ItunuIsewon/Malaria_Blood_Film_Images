@@ -24,7 +24,7 @@ It is a **thick**, **Modified Romanowsky-stained** blood smear image dataset
 
 ## **Image Preview**
 ### **Thick Blood Smear (_P. vivax_)**
-![Figure 2](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Amaris%20et%20al..png)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Amaris%20et%20al..png?raw=true" alt="" width="500">
 
 
 ## **Dataset Availability**
