@@ -29,7 +29,8 @@ It is a **thick**, **Field-stained** blood smear image dataset.
 
 ## **Image Preview**
 ### **Infected**
-![Figure NIH-Pf](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Images/Nakasi%20et%20al..jpg)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Nakasi%20et%20al..jpg?raw=true" alt="" width="500">
+
 
 
 
