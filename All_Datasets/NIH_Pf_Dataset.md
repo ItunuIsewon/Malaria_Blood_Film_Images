@@ -29,10 +29,10 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
 
 ## **Image Preview**
 ### **Thick (Infected)**
-![Figure NIH-Pf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/NIH-%20ThickPf.jpg)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/NIH-%20ThickPf.jpg" alt="Alt text" width="500">
 
 ### **Thick (Uninfected)**
-![Figure NIH-Pf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/NIH%20uninfected.png)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/NIH%20uninfected.png" alt="Alt text" width="500">
 
 ### **Thin (Infected)**
 ![Figure NIH-Thinpf](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/NIH_Infected%20Pf.png)
