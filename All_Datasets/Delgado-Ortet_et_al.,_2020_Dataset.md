@@ -23,10 +23,11 @@ It is a **thin**, **MGG-stained** blood smear image dataset
 
 ## **Image Preview**
 ### **Infected**
-![Figure Delgado](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/Delgado-Ortet%20et%20al..jpg) 
-### **Uninfected**
-![Figure Del_Un](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/Delgado-Ortet%20Uninfected.jpg)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Thin%20Blood%20Smears/Delgado-Ortet%20et%20al..jpg?raw=true" alt="" width="500">
 
+
+### **Uninfected**
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Thin%20Blood%20Smears/Delgado-Ortet%20Uninfected.jpg?raw=true" alt="" width="500">
 
 ## **Dataset Availability**
 
