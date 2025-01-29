@@ -27,19 +27,19 @@ It is a **thin**, **Giemsa-stained** blood smear image dataset.
 
 ## **Image Preview**
 ### **_P. falciparum_**
-![Figure Mpidb-fal](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/MPIDB-%20Falciparum.jpg)
-
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Thin%20Blood%20Smears/MPIDB-%20Falciparum.jpg?raw=true" alt="" width="500">
 
 ### **_P. vivax_**
-![Figure mpidb-vivax](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/MPIDB-vivax.jpg)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Thin%20Blood%20Smears/MPIDB-vivax.jpg?raw=true" alt="" width="500">
+
 
 
 ### **_P. ovale_**
-![Figure mpidb-ovale](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/MPIDB-Ovale.jpg)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Thin%20Blood%20Smears/MPIDB-Ovale.jpg?raw=true" alt="" width="500">
 
 
 ### **_P. malariae_**
-![Figure mpidb-mal](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Thin%20Blood%20Smears/MPIDB-Malariae.jpg)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Thin%20Blood%20Smears/MPIDB-Malariae.jpg?raw=true" alt="" width="500">
 
 
 ## **Dataset Availability**
