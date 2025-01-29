@@ -7,6 +7,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 
 
 
+
 <style>
 .node circle {
   fill: #fff;
@@ -381,8 +382,7 @@ Computer-aided diagnosis uses computers and computational tools to analyze and e
 ## Visualization of Systematic Review Analysis
 71 unique datasets were identified in the review process and they were analyzed based on major categories.
 
-[Visualization](Analysis/Analysis.md)
-
+[Visualization of Analysis](Analysis/Analysis.md)
 
 ---
 ❗🛑 **You can use the interactive mindmap at the top of the page or the list of contents to navigate through this repository for different categories of blood smear image datasets for automated malaria diagnosis**.
