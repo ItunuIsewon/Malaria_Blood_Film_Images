@@ -15,9 +15,9 @@ and differentiate between infected and uninfected blood cells.
 
 
 ## **Image Preview**
-![Figure Lacuna1](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Lacuna1.jpg)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Lacuna1.jpg?raw=true" alt="" width="500">
 
-![Figure Lacuna2](https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Lacuna2.jpg)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Lacuna2.jpg?raw=true" alt="" width="500">
 
 
 
