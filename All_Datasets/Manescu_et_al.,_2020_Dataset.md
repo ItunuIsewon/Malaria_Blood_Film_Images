@@ -27,12 +27,11 @@ It is a **thick**, **Giemsa-stained** blood smear image dataset.
 
 ## **Image Preview**
 ### **Infected**
-![Figure UCH-Pf](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Images/UCH-pf.png)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/UCH-pf.png?raw=true" alt="" width="500">
+
 
 ### **Uninfected**
-![Figure UCH-un](https://github.com/ItunuIsewon/Malaria_Blood_Smear_Images/blob/main/Images/UCH-uninfected.png)
-
-
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/UCH-uninfected.png?raw=true" alt="" width="500">
 
 ## **Dataset Availability**
 
