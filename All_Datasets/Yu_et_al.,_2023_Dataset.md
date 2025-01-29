@@ -27,11 +27,11 @@ It is a **thick** and **thin**, **Giemsa-stained** blood smear image dataset.
 
 ## **Image Preview**
 ### **Thick Blood Smear (_P. falciparum_)**
-![Figure 1](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Sudan_Thick_Pf.png)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Sudan_Thick_Pf.png?raw=true" alt="" width="500">
 
 
 ### **Thin Blood Smear (_P. falciparum_)**
-![Figure 2](https://github.com/ItunuIsewon/Malaria-Blood-Smear-Images/blob/main/Images/Sudan_Thin_Pf.png)
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/Sudan_Thin_Pf.png?raw=true" alt="" width="500">
 
 
 ## **Dataset Availability**
