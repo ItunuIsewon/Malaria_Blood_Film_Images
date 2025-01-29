@@ -10,21 +10,21 @@ Staining reagents are essential in malaria microscopy to enhance the visibility 
 These chemical dyes bind to cellular components, differentiating the parasite from red and white blood cells under a microscope. 
 The figure below shows the proportion of the different reagents used in the studies.
 
-<img src="Images/stain type white.png" alt="Alt text" width="500">
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/stain_type.png?raw=true" alt="" width="500">
 
 
 ## Smear Type
 Smear preparation is a critical step in malaria microscopy, allowing for the visualization of parasites in stained blood samples. 
 The two main types, thick and thin smears, serve different diagnostic purposes by optimizing parasite concentration and morphology. 
 
-<img src="Images/smear type white.png" alt="Alt text" width="500">
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/smear_type.png?raw=true" alt="" width="500">
 
 ## Imaging Techniques
 A range of equipment is used to capture the images for automated malaria diagnosis. 
 
-<img src="Images/smear type white.png" alt="Alt text" width="500">
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/optical_train.png?raw=true" alt="" width="500">
 
 ## Study Location
-Image datasets identified in this study originated from various location.
+Image datasets identified in this study originated from various locations.
 
-<img src="Images/continent white.png" alt="Alt text" width="500">
+<img src="https://github.com/ItunuIsewon/Malaria_Blood_Film_Images/blob/main/Images/continent.png?raw=true" alt="" width="500">
